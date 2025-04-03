@@ -1,5 +1,4 @@
-{
-  data: [
+[
     {
       title: 'How Are Healthcare Providers Being Registered Today?',
       description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
@@ -60,5 +59,4 @@
       description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
       image: '4.jpg',
     }
-  ]
-}
+]
