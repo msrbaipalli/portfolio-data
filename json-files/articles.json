@@ -10,5 +10,47 @@
     "description": "Let’s be honest — searching for a healthcare provider online can be frustrating. You’re already dealing with health concerns, and the last thing you need is a clunky website with confusing menus, endless clicks, and outdated information. A well-designed, intuitive user interface (UI) can change all that, making it easier and faster to find the right doctor. Here’s how:",
     "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/2.jpg",
     "articleUrl": "https://medium.com/path-to-care/how-a-simple-and-smart-ui-can-make-finding-healthcare-providers-easier-6425adc16c1a"
+  },
+  {
+    "title": "Improving Access to Healthcare: The Role of AI in Provider Search",
+    "description": "In the evolving landscape of healthcare, one of the most significant challenges is ensuring that individuals can easily find the right healthcare providers. Access to quality healthcare is not just about the availability of services but also the ease of locating them. In my previous articles, I discussed how a smart UI design can simplify this process",
+    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/3.jpg",
+    "articleUrl": "https://medium.com/path-to-care/improving-access-to-healthcare-the-role-of-ai-in-provider-search-4346b484a854"
+  },
+  {
+    "title": "AI-Based Provider Matching: Transforming Healthcare Access",
+    "description": "In my previous article, Improving Access to Healthcare: The Role of AI in Provider Search, I discussed how AI is reshaping the way patients find healthcare providers. Expanding on that, this article explores AI-based provider matching and how it enhances personalization and efficiency in healthcare access.",
+    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/4.jpg",
+    "articleUrl": "https://medium.com/path-to-care/ai-based-provider-matching-transforming-healthcare-access-d952b2acfe4f"
+  },
+  {
+    "title": "Angular 19 Signals: A New Era of Reactivity",
+    "description": "If you’re an Angular developer, you’ve probably heard the buzz around Signals in Angular 19. And let me tell you, this is a game-changer! Angular has always been great, but Signals bring in a whole new level of fine-grained reactivity, making state management smoother, more efficient, and way more predictable.",
+    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/5.jpg",
+    "articleUrl": "https://medium.com/@msrbaipalli/angular-19-signals-a-new-era-of-reactivity-1666fa94cb38"
+  },
+  {
+    "title": "Getting Started with GraphQL: A Modern API Approach",
+    "description": "If you’ve ever worked with REST APIs, you know the struggle — over-fetching data, multiple endpoints, and juggling unnecessary responses. Enter GraphQL, the modern solution developers love for its flexibility and efficiency.",
+    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/6.jpg",
+    "articleUrl": "https://medium.com/@msrbaipalli/getting-started-with-graphql-a-modern-api-approach-ce7adbe04017"
+  },
+  {
+    "title": "Fixing the Mess in Healthcare Provider Search: What’s Wrong and How We Can Solve It",
+    "description": "Ever tried searching for a doctor online, only to find out their address is outdated, they’re not accepting new patients, or — worse — they’re not even in your insurance network? You’re not alone. Government reports from CMS, ASPE, and state agencies show that nearly half of provider directories contain errors. That’s a huge problem when people rely on these directories for care.",
+    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/7.jpg",
+    "articleUrl": "https://medium.com/path-to-care/fixing-the-mess-in-healthcare-provider-search-whats-wrong-and-how-we-can-solve-it-e8e7d068c228"
+  },
+  {
+    "title": "Building a Unified Provider Directory: Reshaping Healthcare for Providers",
+    "description": "In today’s complex healthcare system, providers struggle to keep their information accurate and up to date across multiple directories. Poor data management creates extra work, slows down care coordination, and can lead to compliance issues. A single, unified provider directory can simplify the process and make things more efficient for healthcare providers.",
+    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/8.jpg",
+    "articleUrl": "https://medium.com/path-to-care/building-a-unified-provider-directory-reshaping-healthcare-for-providers-efe6b6d9fbd2"
+  },
+  {
+    "title": "How Are Healthcare Providers Being Registered Today?",
+    "description": "I’ve been thinking about how healthcare providers get registered and how that whole process works. It’s actually pretty interesting and important, especially when you think about how millions of people rely on these systems to find doctors and specialists.",
+    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/9.jpg",
+    "articleUrl": "https://medium.com/path-to-care/how-are-healthcare-providers-being-registered-today-a0d7cc216ba8"
   }
 ]
