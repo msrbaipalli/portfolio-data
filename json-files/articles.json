@@ -52,5 +52,11 @@
     "description": "I’ve been thinking about how healthcare providers get registered and how that whole process works. It’s actually pretty interesting and important, especially when you think about how millions of people rely on these systems to find doctors and specialists.",
     "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/9.jpg",
     "articleUrl": "https://medium.com/path-to-care/how-are-healthcare-providers-being-registered-today-a0d7cc216ba8"
+  },
+  {
+    "title": "Why Choose React?",
+    "description": "React is one of the most popular JavaScript libraries for building user interfaces, especially for single-page applications. React allows to create reusable UI components that can manage complex interactions in a scalable and efficient way. Whether you're a seasoned developer or a beginner, React’s component-based architecture and declarative syntax make it a versatile tool for building modern web applications.",
+    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/10.jpg",
+    "articleUrl": "https://www.linkedin.com/pulse/why-choose-react-srinivas-baipalli-dg82e/?trackingId=1DPdajY0B%2FlYa80gKXnKdw%3D%3D"
   }
 ]
