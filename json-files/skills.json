@@ -112,7 +112,8 @@
             {
                 "sectionTitle": "Tools & Platforms",
                 "sectionItems": [
-                    "Jenkins, Docker",
+                    "Jenkins",
+                    "Docker",
                     "Git",
                     "GitHub Copilot",
                     "Git Actions",
