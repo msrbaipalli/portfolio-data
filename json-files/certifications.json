@@ -2,43 +2,43 @@
     {
         "title": "CS50: Introduction to Computer Science",
         "subtitle": "Edx HarvardX",
-        "iconUrl": "https://material.angular.io/assets/img/examples/shiba1.jpg",
+        "iconUrl": "https://github.com/msrbaipalli/portfolio-data/blob/main/images/certificates/edx.jpg",
         "url": "https://courses.edx.org/certificates/cfdbf919a099417ab1ea259741291ac2"
     },
     {
         "title": "Computer Science 101",
         "subtitle": "Stanford University",
-        "iconUrl": "https://material.angular.io/assets/img/examples/shiba1.jpg",
+        "iconUrl": "https://github.com/msrbaipalli/portfolio-data/blob/main/images/certificates/standford.jpg",
         "url": "https://prod-cert-bucket.s3.amazonaws.com/downloads/2c9c3cc2083a47d79cc5a96a23498d7a/Statement.pdf"
     },
     {
         "title": "AWS Certified Developer - Associate (DVA-C02)",
         "subtitle": "Linkedin",
-        "iconUrl": "https://material.angular.io/assets/img/examples/shiba1.jpg",
+        "iconUrl": "https://github.com/msrbaipalli/portfolio-data/blob/main/images/certificates/linkedin.jpg",
         "url": "https://www.linkedin.com/learning/certificates/e760631f31af562c4deb196509993d36f88fd6a236e28186d497a755f3e090fd?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B5agvZDnHSpGAMTo7vlMQXQ%3D%3D"
     },
     {
         "title": "Legacy Front End",
         "subtitle": "Free Code Camp",
-        "iconUrl": "https://material.angular.io/assets/img/examples/shiba1.jpg",
+        "iconUrl": "https://github.com/msrbaipalli/portfolio-data/blob/main/images/certificates/freecodecamp.jpg",
         "url": "https://www.freecodecamp.org/certification/bmsrinivasrao007/legacy-front-end"
     },
     {
         "title": "Artificial Intelligence Foundations: Machine Learning",
         "subtitle": "LinkedIn",
-        "iconUrl": "https://material.angular.io/assets/img/examples/shiba1.jpg",
+        "iconUrl": "https://github.com/msrbaipalli/portfolio-data/blob/main/images/certificates/linkedin.jpg",
         "url": "https://www.linkedin.com/learning/certificates/a8880523cb5ff933e7515c8d5f66bea99d54dda25292631ea59381d1c7405bc4"
     },
     {
         "title": "Javascript (Basic)",
         "subtitle": "Hacker Rank",
-        "iconUrl": "https://material.angular.io/assets/img/examples/shiba1.jpg",
+        "iconUrl": "https://github.com/msrbaipalli/portfolio-data/blob/main/images/certificates/hackerrank.jpg",
         "url": "https://www.hackerrank.com/certificates/55a0177c19ef"
     },
     {
         "title": "Angular (Basic)",
         "subtitle": "Hacker Rank",
-        "iconUrl": "https://material.angular.io/assets/img/examples/shiba1.jpg",
+        "iconUrl": "https://github.com/msrbaipalli/portfolio-data/blob/main/images/certificates/hackerrank.jpg",
         "url": "https://www.hackerrank.com/certificates/772ff811d48c"
     }
 ]
