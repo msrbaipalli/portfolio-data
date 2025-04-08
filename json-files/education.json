@@ -1,0 +1,43 @@
+[
+    {
+        "degree": "Master of Digital Sciences",
+        "university": "Kent State University",
+        "date": "Aug 2016 - Dec 2017",
+        "major": "Computer and Information Sciences",
+        "gpa": "3.7 out of 4.0",
+        "courses": [
+            "Algorithm and Programming with Data Structures",
+            "Enterprise Architecture",
+            "Database Management Systems",
+            "Application & Technology Architecture",
+            "Requirements & Engineering",
+            "VB Programming"
+        ],
+        "iconUrl": "kent.png",
+        "location": "Kent, Ohio, United States.",
+        "url": "https://www.kent.edu/",
+        "certificateUrl": ""
+    },
+    {
+        "degree": "Bachelor of Technology",
+        "university": "Jawaharlal Nehru Technology University",
+        "date": "May 2012 - Apr 2016",
+        "major": "Computer Science and Engineering",
+        "gpa": "3.2 out of 4.0",
+        "courses": [
+            "Computer Programming & Data Structures",
+            "Data Communications & Computer Networks",
+            "Data Structure through C++",
+            " Data Warehouse & Data Mining",
+            "Database Management Systems",
+            "Object Oriented Analysis & Design",
+            "Design Patterns",
+            "Design & Analysis of Algorithms",
+            "Formal Languages & Automata Theory"
+        ],
+        "iconUrl": "jntuh.png",
+        "location": "Hyderabad, Telangana, India.",
+        "url": "https://jntuh.ac.in/",
+        "certificateUrl": ""
+    }
+]
