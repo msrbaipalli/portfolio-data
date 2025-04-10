@@ -8,11 +8,11 @@
         "projects": [
             {
                 "projectName": "Provider Search Experince",
-                "projectDescription": "UnitedHealth Group is a health care and well-being company with team members in two distinct and complementary businesses - Optum and UnitedHealthcare - working to help build a modern, high-performing health system."
+                "projectDescription": "Leading a federated team to maintain and build new functionalities to support Optum Provider Search Experience product which is designed to help patients easily find and connect with healthcare providers within the Optum network. This service offers a user-friendly online tool that allows users to search for doctors, specialists, and other healthcare services based on various criteria such as location, specialty, and gender."
             },
             {
                 "projectName": "Optum Data Exchange",
-                "projectDescription": "UnitedHealth Group is a health care and well-being company with team members in two distinct and complementary businesses - Optum and UnitedHealthcare - working to help build a modern, high-performing health system."
+                "projectDescription": "Lead a team to build UI applications to support Optum Data Exchange platform that enables to exchange of clinical data more effectively among providers."
             }
         ],
         "skills": [
@@ -53,7 +53,7 @@
         "projects": [
             {
                 "projectName": "Client Onboaring - Raymond James Financial, Inc. ",
-                "projectDescription": "UnitedHealth Group is a health care and well-being company with team members in two distinct and complementary businesses - Optum and UnitedHealthcare - working to help build a modern, high-performing health system."
+                "projectDescription": "Worked on implementing and supporting new features for Client Onboarding a web-based application which is core application used by Raymond James Financial Advisors and other internal employees to open and maintain client’s profiles and accounts."
             }
         ],
         "skills": [
@@ -91,8 +91,8 @@
         "description": "Kent State University is a large, primary residential, public research university in Kent, Ohio. It has serval IT divisions which services on software solutions to the Organization. The application Service Request Management is a part of Technology Department at University College which supports day-to-day jobs of managing a wide range of requests such as IT support requests, project requests, service requests, application development requests, media design requests, etc. from internal and external clients.",
         "projects": [
             {
-                "projectName": "Technology Ticket Management System",
-                "projectDescription": "UnitedHealth Group is a health care and well-being company with team members in two distinct and complementary businesses - Optum and UnitedHealthcare - working to help build a modern, high-performing health system."
+                "projectName": "Service Request Management",
+                "projectDescription": "Worked on build Service Request Management application which was a part of Technology Department at University College which supports day-to-day jobs of managing a wide range of requests such as IT support requests, project requests, service requests, application development requests, media design requests, etc. from internal and external clients."
             }
         ],
         "skills": [
