@@ -8,11 +8,11 @@
         "projects": [
             {
                 "projectName": "Provider Search Experince",
-                "projectDescription": "Leading a federated team to maintain and build new functionalities to support Optum Provider Search Experience product which is designed to help patients easily find and connect with healthcare providers within the Optum network. This service offers a user-friendly online tool that allows users to search for doctors, specialists, and other healthcare services based on various criteria such as location, specialty, and gender."
+                "projectDescription": "Currently leading a federated team to develop and enhance the Optum Provider Search Experience — a key product used by millions of people to help patients easily find and connect with healthcare providers within the Optum network. This platform offers a user-friendly, dynamic search tool that allows users to filter providers based on multiple criteria such as location, specialty, language, and gender, making it easier for patients to access the right care. By improving the search functionality and overall user experience, the product plays a critical role in empowering millions of patients and streamlining healthcare access."
             },
             {
                 "projectName": "Optum Data Exchange",
-                "projectDescription": "Lead a team to build UI applications to support Optum Data Exchange platform that enables to exchange of clinical data more effectively among providers."
+                "projectDescription": "Led a team in developing user interface applications for the Optum Data Exchange platform, a critical system that facilitates the secure and efficient exchange of clinical data between healthcare providers. Focused on enhancing the platform's usability and performance, enabling providers to access and share patient data seamlessly. This work directly supports the healthcare industry's transition to more integrated and data-driven care, improving patient outcomes and operational efficiency."
             }
         ],
         "skills": [
@@ -53,7 +53,7 @@
         "projects": [
             {
                 "projectName": "Client Onboaring - Raymond James Financial, Inc. ",
-                "projectDescription": "Worked on implementing and supporting new features for Client Onboarding a web-based application which is core application used by Raymond James Financial Advisors and other internal employees to open and maintain client’s profiles and accounts."
+                "projectDescription": "Contributed to the development and enhancement of the Client Onboarding application — a mission-critical, web-based platform used by Raymond James Financial Advisors and internal teams to efficiently open, manage, and maintain client profiles and financial accounts. Played a key role in implementing new features, optimizing workflows, and ensuring regulatory compliance, resulting in a more streamlined and user-friendly onboarding experience. The platform supports thousands of users daily and is integral to the firm's client relationship management and operational efficiency."
             }
         ],
         "skills": [
@@ -92,7 +92,7 @@
         "projects": [
             {
                 "projectName": "Service Request Management",
-                "projectDescription": "Worked on build Service Request Management application which was a part of Technology Department at University College which supports day-to-day jobs of managing a wide range of requests such as IT support requests, project requests, service requests, application development requests, media design requests, etc. from internal and external clients."
+                "projectDescription": "Developed and enhanced a comprehensive Service Request Management application for the Technology Department at University College. The platform streamlined the intake, tracking, and resolution of diverse requests — including IT support, project management, application development, media design, and other technical services — from both internal and external stakeholders. The system significantly improved operational efficiency by centralizing request workflows, automating status updates, and enabling better resource allocation. This solution played a key role in supporting the department’s day-to-day operations and elevating service delivery standards across the college."
             }
         ],
         "skills": [
