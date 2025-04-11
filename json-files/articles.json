@@ -7,6 +7,13 @@
     "type": "programming"
   },
   {
+    "title": "How Powerful GraphQL Is: Combining Multiple APIs into One Unified Interface",
+    "description": "GraphQL has completely changed how I approach APIs. I used to think of it as a nice-to-have — a buzzword from dev conferences. But the moment I used it to unify multiple data sources into one clean API layer, I was sold. In this intro guide, I break down what GraphQL is, how it compares with REST",
+    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/graphql.jpg",
+    "articleUrl": "https://medium.com/@msrbaipalli/how-powerful-graphql-is-combining-multiple-apis-into-one-unified-interface-da81c1e5af6b",
+    "type": "programming"
+  },
+  {
     "title": "Revolutionizing Healthcare Provider Search: Enhancing Access and Efficiency",
     "description": "In today’s fast-paced digital world, finding the right healthcare provider should be as seamless as ordering a meal or booking a flight. However, many patients still face significant hurdles in identifying the best providers for their needs. A robust and user-friendly healthcare provider search system is essential to ensure that individuals can access quality care without unnecessary delays.",
     "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/1.jpg",
