@@ -2,72 +2,84 @@
     {
         "title": "Graph Developer - Associate",
         "subtitle": "Apollo Graphql",
+        "description": "This certification possess a solid foundational knowledge of GraphQL and the Apollo tool suite to design a schema, run an Apollo Server 4, and perform queries with Apollo Client 3 on the frontend.",
         "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/apollo.jpg",
         "url": "https://www.apollographql.com/tutorials/certifications/8b48798a-cb9d-498a-99a1-2352cc08610c"
     },
     {
         "title": "API Orchestration - Associate",
         "subtitle": "Apollo Graphql",
+        "description": "This certification possess a solid foundational knowledge of API orchestration using Apollo Connectors. They can build connectors for REST APIs within a GraphQL schema, transform selection mappings, and use entities to orchestrate multiple REST calls.",
         "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/apollo.jpg",
         "url": "https://www.apollographql.com/tutorials/certifications/984342a0-6beb-41aa-ba88-ac30d11f62c3"
     },
     {
         "title": "CS50: Introduction to Computer Science",
         "subtitle": "Edx HarvardX",
+        "description": "This is a course of study offered by HarvardX, an online learning initiative of Harvard University through edX.",
         "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/edx.jpg",
         "url": "https://courses.edx.org/certificates/cfdbf919a099417ab1ea259741291ac2"
     },
     {
         "title": "Computer Science 101",
         "subtitle": "Stanford University",
+        "description": "This is a course of study offered by Stanford University, an online learning initiative of Stanford University Stanford Online.",
         "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/standford.jpg",
         "url": "https://prod-cert-bucket.s3.amazonaws.com/downloads/2c9c3cc2083a47d79cc5a96a23498d7a/Statement.pdf"
     },
     {
         "title": "AWS Certified Developer - Associate",
         "subtitle": "Linkedin",
+        "description": "This certification validates the ability to demonstrate proficiency in developing, testing, deploying, and debugging AWS cloud-based applications, and requires one or more years of professional, hands-on experience with developing and maintaining applications using AWS.",
         "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
         "url": "https://www.linkedin.com/learning/certificates/e760631f31af562c4deb196509993d36f88fd6a236e28186d497a755f3e090fd?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B5agvZDnHSpGAMTo7vlMQXQ%3D%3D"
     },
     {
         "title": "AWS Certified Solutions Architect - Professional",
         "subtitle": "Linkedin",
+        "description": "This certification validates advanced technical skills and experience in designing distributed systems and applications on the AWS platform. It is intended for individuals with a strong understanding of AWS services, architecture best practices, and the ability to design scalable, reliable, and cost-effective solutions that meet complex requirements.",
         "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
         "url": "https://www.linkedin.com/learning/certificates/1e7a1f7a0ea7e0532e0c66e45a26eac74ab3e1a216b5c1ba5c736946d19670e7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B%2F2jTJlHIT26DRfXS35CiWg%3D%3D"
     },
     {
         "title": "Legacy Front End",
         "subtitle": "Free Code Camp",
+        "description": "This certification is a 300-hour program designed to teach the fundamentals of web development. This certification focuses on building a strong foundation in HTML, CSS, Responsive Web Design, JavaScript, and jQuery.",
         "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/freecodecamp.jpg",
         "url": "https://www.freecodecamp.org/certification/bmsrinivasrao007/legacy-front-end"
     },
     {
         "title": "Artificial Intelligence Foundations: Machine Learning",
         "subtitle": "LinkedIn",
+        "description": "This course offers a beginner-friendly introduction to machine learning concepts, including supervised and unsupervised learning, model training, evaluation, and building ML pipelines.",
         "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
         "url": "https://www.linkedin.com/learning/certificates/a8880523cb5ff933e7515c8d5f66bea99d54dda25292631ea59381d1c7405bc4"
     },
     {
         "title": "Generative AI and Large Language Models on AWS",
         "subtitle": "LinkedIn",
+        "description": "This course guides learners through setting up cloud-based Rust development environments, constructing serverless workflows with AWS Lambda and Step Functions, and utilizing tools like AWS CodeCatalyst, SageMaker, and Lightsail. The course also covers generating and summarizing text and code with models such as Claude and CodeWhisperer, and orchestrating models and data workflows using Amazon Bedrock.",
         "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
         "url": "https://www.linkedin.com/learning/certificates/39d0941a2dcba4f28d30457a823f2c780dde903ea2ef71b4251bbf44b67ea4f5"
     },
     {
         "title": "Programming Foundations: Design Patterns",
         "subtitle": "LinkedIn",
+        "description": "This course introduces essential object-oriented design patterns, such as Strategy, Adapter, Observer, and Decorator. Taught by Elisabeth Robson and Eric Freeman, coauthors of Head First Design Patterns, the course provides practical examples in Java, with occasional insights in Python and JavaScript. It's ideal for intermediate developers aiming to write more maintainable and flexible code.​",
         "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
         "url": "https://www.linkedin.com/learning/certificates/59474422cbd7982a39a14150b0977bc9fe9636eb0c4d407d46228784c3e2fe19"
     },
     {
         "title": "Javascript (Basic)",
         "subtitle": "Hacker Rank",
+        "description": "This certification possess a basic knowledge on Javascript which covers topics like, Functions, Currying, Hoisting, Scope, Inheritance, Events and Error Handling.",
         "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/hackerrank.jpg",
         "url": "https://www.hackerrank.com/certificates/55a0177c19ef"
     },
     {
         "title": "Angular (Basic)",
         "subtitle": "Hacker Rank",
+        "description": "This certification possess a basic knowledge on Angular which covers topics like MVC Frameworks, Components (Angular, Dynamic, Styling), TypeScript, Two Way Binding and Form Validation.",
         "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/hackerrank.jpg",
         "url": "https://www.hackerrank.com/certificates/772ff811d48c"
     }
