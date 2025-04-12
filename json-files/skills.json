@@ -17,8 +17,6 @@
                     "Angular 17+",
                     "React",
                     "React Native",
-                    "Node.js",
-                    "Express.js",
                     "LIT",
                     "Tailwind CSS",
                     "Bootstrap",
@@ -71,6 +69,7 @@
                 "sectionItems": [
                     "Java Spring Boot",
                     "Node.js",
+                    "Express.js",
                     ".Net Entity"
                 ]
             },
