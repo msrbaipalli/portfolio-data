@@ -1,5 +1,12 @@
 [
     {
+        "title": "Graph Developer - Professional",
+        "subtitle": "Apollo Graphql",
+        "description": "This certification demonstrate strong familiarity with Apollo Federation concepts. They can apply those concepts to build a federated supergraph or move an existing monolithic graph to federation.",
+        "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/apollo.jpg",
+        "url": "https://www.apollographql.com/tutorials/certifications/5ad6707f-c6c6-4ee0-be30-920877de64ed"
+    },
+    {
         "title": "Graph Developer - Associate",
         "subtitle": "Apollo Graphql",
         "description": "This certification demonstrates foundational knowledge of GraphQL and Apollo, including schema design, running Apollo Server 4, and performing frontend queries using Apollo Client 3.",
