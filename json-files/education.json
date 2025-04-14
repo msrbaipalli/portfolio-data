@@ -16,7 +16,7 @@
         "iconUrl": "kent.png",
         "location": "Kent, Ohio, United States.",
         "url": "https://www.kent.edu/",
-        "certificateUrl": ""
+        "certificateUrl": "https://github.com/msrbaipalli/portfolio-data/blob/main/files/degrees/mastersdegree.pdf"
     },
     {
         "degree": "Bachelor of Technology",
@@ -38,6 +38,6 @@
         "iconUrl": "jntuh.png",
         "location": "Hyderabad, Telangana, India.",
         "url": "https://jntuh.ac.in/",
-        "certificateUrl": ""
+        "certificateUrl": "https://github.com/msrbaipalli/portfolio-data/blob/main/files/degrees/btechdegree.pdf"
     }
 ]
