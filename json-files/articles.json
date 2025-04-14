@@ -4,7 +4,8 @@
     "description": "We know how critical accurate and structured provider data is in today’s digital healthcare systems. Whether it’s helping patients connect with the right doctors, managing complex provider directories, or supporting insurance networks, backend systems must be fast, scalable, and adaptable.We know how critical accurate and structured provider data is in today’s digital healthcare systems.",
     "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/graphqlhealthcare.jpg",
     "articleUrl": "https://medium.com/@msrbaipalli/leveraging-graphql-for-healthcare-provider-data-c5a881232d44",
-    "type": "healthcare"
+    "type": "healthcare",
+    "filterTypes": "healthcare, programming"
   },
   {
     "title": "Understanding Angular Standalone Components",
