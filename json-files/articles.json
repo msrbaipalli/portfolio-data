@@ -1,5 +1,13 @@
 [
   {
+    "title": "The Impact of AI on Modern App User Interfaces",
+    "description": "The way we interact with apps today is drastically different from just a few years ago. We’re no longer tapping through rigid menus or waiting for static pages to load. Now, apps feel more alive — learning from us, adapting to us, and even talking back. What’s behind this transformation? One big driver is Artificial Intelligence (AI).",
+    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/AI.jpg",
+    "articleUrl": "https://medium.com/@msrbaipalli/the-impact-of-ai-on-modern-app-user-interfaces-7750c6be7e8b",
+    "type": "technology",
+    "filterTypes": "technology, programming"
+  },
+  {
     "title": "Leveraging GraphQL for Healthcare Provider Data",
     "description": "We know how critical accurate and structured provider data is in today’s digital healthcare systems. Whether it’s helping patients connect with the right doctors, managing complex provider directories, or supporting insurance networks, backend systems must be fast, scalable, and adaptable.We know how critical accurate and structured provider data is in today’s digital healthcare systems.",
     "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/graphqlhealthcare.jpg",
