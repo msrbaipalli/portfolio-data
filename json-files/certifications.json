@@ -1,5 +1,12 @@
 [
     {
+        "title": "Generative AI Fundamentals",
+        "subtitle": "Databricks",
+        "description": "This certification validates foundational knowledge of generative AI, including core concepts, models, applications, and ethical considerations, empowering professionals to understand and engage with emerging AI technologies.",
+        "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/databricks.jpg",
+        "url": "https://credentials.databricks.com/8010d58e-eaae-45af-8404-d5692b4dc091#acc.zrEmcQGU"
+    },
+    {
         "title": "Graph Developer - Professional",
         "subtitle": "Apollo Graphql",
         "description": "This certification demonstrate strong familiarity with Apollo Federation concepts. They can apply those concepts to build a federated supergraph or move an existing monolithic graph to federation.",
