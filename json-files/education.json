@@ -8,10 +8,12 @@
         "courses": [
             "Algorithm and Programming with Data Structures",
             "Enterprise Architecture",
+            "Data Science",
             "Database Management Systems",
             "Application & Technology Architecture",
             "Requirements & Engineering",
-            "VB Programming"
+            "VB Programming in Engineering",
+            "Capstone in Digital Sciences"
         ],
         "iconUrl": "kent.png",
         "location": "Kent, Ohio, United States.",
