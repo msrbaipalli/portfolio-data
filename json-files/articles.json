@@ -1,5 +1,13 @@
 [
   {
+    "title": "How AI is Changing the Way We Code (And Why It’s Pretty Awesome)",
+    "description": "Lately, I’ve been thinking about how much the developer world has changed in just the past couple of years, especially with AI stepping into our daily workflows. It’s honestly wild how fast things are moving.",
+    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/aicoding.jpg",
+    "articleUrl": "https://medium.com/@msrbaipalli/how-ai-is-changing-the-way-we-code-and-why-its-pretty-awesome-262d8fa56f14",
+    "type": "technology",
+    "filterTypes": "technology, programming"
+  },
+  {
     "title": "The Impact of AI on Modern App User Interfaces",
     "description": "The way we interact with apps today is drastically different from just a few years ago. We’re no longer tapping through rigid menus or waiting for static pages to load. Now, apps feel more alive — learning from us, adapting to us, and even talking back. What’s behind this transformation? One big driver is Artificial Intelligence (AI).",
     "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/AI.jpg",
