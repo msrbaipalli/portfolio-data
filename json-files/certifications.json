@@ -7,6 +7,13 @@
         "url": "https://credentials.databricks.com/8010d58e-eaae-45af-8404-d5692b4dc091#acc.zrEmcQGU"
     },
     {
+        "title": "Databricks Accredited Advanced Machine Learning Operations",
+        "subtitle": "Databricks",
+        "description": "This certification validates expertise in deploying, monitoring, and managing ML models at scale using Databricks, focusing on MLOps best practices, automation, and collaborative workflows.",
+        "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/databricks.jpg",
+        "url": "https://credentials.databricks.com/796c84c3-39c2-4b2c-a828-e6690f74d81e?username=srinivasbaipalli934408"
+    },
+    {
         "title": "Graph Developer - Professional",
         "subtitle": "Apollo Graphql",
         "description": "This certification demonstrate strong familiarity with Apollo Federation concepts. They can apply those concepts to build a federated supergraph or move an existing monolithic graph to federation.",
