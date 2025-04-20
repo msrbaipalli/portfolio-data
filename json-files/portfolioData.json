@@ -1,0 +1,515 @@
+{
+    "articles": [
+        {
+            "title": "The Role of AI in Modern Healthcare",
+            "description": "Artificial Intelligence, or AI, isn’t just a fancy tech term anymore. It’s actually making a big difference in the real world, especially in healthcare. From helping doctors find problems faster to making patient care more personal, AI is changing the way we experience healthcare. In this article, I will explain how AI is used in healthcare, using simple and easy-to-understand examples.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/aihealth.jpg",
+            "articleUrl": "https://medium.com/path-to-care/the-role-of-ai-in-modern-healthcare-eb108c43f13f",
+            "type": "healthcare",
+            "filterTypes": "healthcare, technology"
+        },
+        {
+            "title": "How AI is Changing the Way We Code (And Why It’s Pretty Awesome)",
+            "description": "Lately, I’ve been thinking about how much the developer world has changed in just the past couple of years, especially with AI stepping into our daily workflows. It’s honestly wild how fast things are moving.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/aicoding.jpg",
+            "articleUrl": "https://medium.com/@msrbaipalli/how-ai-is-changing-the-way-we-code-and-why-its-pretty-awesome-262d8fa56f14",
+            "type": "technology",
+            "filterTypes": "technology, programming"
+        },
+        {
+            "title": "The Impact of AI on Modern App User Interfaces",
+            "description": "The way we interact with apps today is drastically different from just a few years ago. We’re no longer tapping through rigid menus or waiting for static pages to load. Now, apps feel more alive — learning from us, adapting to us, and even talking back. What’s behind this transformation? One big driver is Artificial Intelligence (AI).",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/AI.jpg",
+            "articleUrl": "https://medium.com/@msrbaipalli/the-impact-of-ai-on-modern-app-user-interfaces-7750c6be7e8b",
+            "type": "technology",
+            "filterTypes": "technology, programming"
+        },
+        {
+            "title": "Leveraging GraphQL for Healthcare Provider Data",
+            "description": "We know how critical accurate and structured provider data is in today’s digital healthcare systems. Whether it’s helping patients connect with the right doctors, managing complex provider directories, or supporting insurance networks, backend systems must be fast, scalable, and adaptable.We know how critical accurate and structured provider data is in today’s digital healthcare systems.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/graphqlhealthcare.jpg",
+            "articleUrl": "https://medium.com/@msrbaipalli/leveraging-graphql-for-healthcare-provider-data-c5a881232d44",
+            "type": "healthcare",
+            "filterTypes": "healthcare, programming"
+        },
+        {
+            "title": "Understanding Angular Standalone Components",
+            "description": "If you’ve been working with Angular, you probably know the usual drill: you create a component, and then you add it to a module. It’s like the component needs a home (the module) before it can exist in your app. But guess what? With the introduction of standalone components in Angular 14, that’s no longer a strict rule. ",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/angular.jpg",
+            "articleUrl": "https://medium.com/@msrbaipalli/understanding-angular-standalone-components-60f29ec18ac8",
+            "type": "programming"
+        },
+        {
+            "title": "How Powerful GraphQL Is: Combining Multiple APIs into One Unified Interface",
+            "description": "GraphQL has completely changed how I approach APIs. I used to think of it as a nice-to-have — a buzzword from dev conferences. But the moment I used it to unify multiple data sources into one clean API layer, I was sold. In this intro guide, I break down what GraphQL is, how it compares with REST",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/graphql.jpg",
+            "articleUrl": "https://medium.com/@msrbaipalli/how-powerful-graphql-is-combining-multiple-apis-into-one-unified-interface-da81c1e5af6b",
+            "type": "programming"
+        },
+        {
+            "title": "Revolutionizing Healthcare Provider Search: Enhancing Access and Efficiency",
+            "description": "In today’s fast-paced digital world, finding the right healthcare provider should be as seamless as ordering a meal or booking a flight. However, many patients still face significant hurdles in identifying the best providers for their needs. A robust and user-friendly healthcare provider search system is essential to ensure that individuals can access quality care without unnecessary delays.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/1.jpg",
+            "articleUrl": "https://medium.com/path-to-care/revolutionizing-healthcare-provider-search-enhancing-access-and-efficiency-ee1fb1393af0",
+            "type": "healthcare"
+        },
+        {
+            "title": "How a Simple and Smart UI Can Make Finding Healthcare Providers Easier",
+            "description": "Let’s be honest — searching for a healthcare provider online can be frustrating. You’re already dealing with health concerns, and the last thing you need is a clunky website with confusing menus, endless clicks, and outdated information. A well-designed, intuitive user interface (UI) can change all that, making it easier and faster to find the right doctor. Here’s how:",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/2.jpg",
+            "articleUrl": "https://medium.com/path-to-care/how-a-simple-and-smart-ui-can-make-finding-healthcare-providers-easier-6425adc16c1a",
+            "type": "healthcare"
+        },
+        {
+            "title": "Improving Access to Healthcare: The Role of AI in Provider Search",
+            "description": "In the evolving landscape of healthcare, one of the most significant challenges is ensuring that individuals can easily find the right healthcare providers. Access to quality healthcare is not just about the availability of services but also the ease of locating them. In my previous articles, I discussed how a smart UI design can simplify this process",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/3.jpg",
+            "articleUrl": "https://medium.com/path-to-care/improving-access-to-healthcare-the-role-of-ai-in-provider-search-4346b484a854",
+            "type": "healthcare"
+        },
+        {
+            "title": "AI-Based Provider Matching: Transforming Healthcare Access",
+            "description": "In my previous article, Improving Access to Healthcare: The Role of AI in Provider Search, I discussed how AI is reshaping the way patients find healthcare providers. Expanding on that, this article explores AI-based provider matching and how it enhances personalization and efficiency in healthcare access.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/4.jpg",
+            "articleUrl": "https://medium.com/path-to-care/ai-based-provider-matching-transforming-healthcare-access-d952b2acfe4f",
+            "type": "healthcare"
+        },
+        {
+            "title": "Angular 19 Signals: A New Era of Reactivity",
+            "description": "If you’re an Angular developer, you’ve probably heard the buzz around Signals in Angular 19. And let me tell you, this is a game-changer! Angular has always been great, but Signals bring in a whole new level of fine-grained reactivity, making state management smoother, more efficient, and way more predictable.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/5.jpg",
+            "articleUrl": "https://medium.com/@msrbaipalli/angular-19-signals-a-new-era-of-reactivity-1666fa94cb38",
+            "type": "programming"
+        },
+        {
+            "title": "Getting Started with GraphQL: A Modern API Approach",
+            "description": "If you’ve ever worked with REST APIs, you know the struggle — over-fetching data, multiple endpoints, and juggling unnecessary responses. Enter GraphQL, the modern solution developers love for its flexibility and efficiency.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/6.jpg",
+            "articleUrl": "https://medium.com/@msrbaipalli/getting-started-with-graphql-a-modern-api-approach-ce7adbe04017",
+            "type": "programming"
+        },
+        {
+            "title": "Fixing the Mess in Healthcare Provider Search: What’s Wrong and How We Can Solve It",
+            "description": "Ever tried searching for a doctor online, only to find out their address is outdated, they’re not accepting new patients, or — worse — they’re not even in your insurance network? You’re not alone. Government reports from CMS, ASPE, and state agencies show that nearly half of provider directories contain errors. That’s a huge problem when people rely on these directories for care.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/7.jpg",
+            "articleUrl": "https://medium.com/path-to-care/fixing-the-mess-in-healthcare-provider-search-whats-wrong-and-how-we-can-solve-it-e8e7d068c228",
+            "type": "healthcare"
+        },
+        {
+            "title": "Building a Unified Provider Directory: Reshaping Healthcare for Providers",
+            "description": "In today’s complex healthcare system, providers struggle to keep their information accurate and up to date across multiple directories. Poor data management creates extra work, slows down care coordination, and can lead to compliance issues. A single, unified provider directory can simplify the process and make things more efficient for healthcare providers.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/8.jpg",
+            "articleUrl": "https://medium.com/path-to-care/building-a-unified-provider-directory-reshaping-healthcare-for-providers-efe6b6d9fbd2",
+            "type": "healthcare"
+        },
+        {
+            "title": "How Are Healthcare Providers Being Registered Today?",
+            "description": "I’ve been thinking about how healthcare providers get registered and how that whole process works. It’s actually pretty interesting and important, especially when you think about how millions of people rely on these systems to find doctors and specialists.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/9.jpg",
+            "articleUrl": "https://medium.com/path-to-care/how-are-healthcare-providers-being-registered-today-a0d7cc216ba8",
+            "type": "healthcare"
+        },
+        {
+            "title": "Why Choose React?",
+            "description": "React is one of the most popular JavaScript libraries for building user interfaces, especially for single-page applications. React allows to create reusable UI components that can manage complex interactions in a scalable and efficient way. Whether you're a seasoned developer or a beginner, React’s component-based architecture and declarative syntax make it a versatile tool for building modern web applications.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/10.jpg",
+            "articleUrl": "https://www.linkedin.com/pulse/why-choose-react-srinivas-baipalli-dg82e/?trackingId=1DPdajY0B%2FlYa80gKXnKdw%3D%3D",
+            "type": "programming"
+        }
+    ],
+    "certificates": [
+        {
+            "title": "Databricks Accredited Generative AI Fundamentals",
+            "subtitle": "Databricks",
+            "description": "This certification validates foundational knowledge of generative AI, including core concepts, models, applications, and ethical considerations, empowering professionals to understand and engage with emerging AI technologies.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/databricks.jpg",
+            "url": "https://credentials.databricks.com/8010d58e-eaae-45af-8404-d5692b4dc091#acc.zrEmcQGU"
+        },
+        {
+            "title": "Advanced Machine Learning Operations",
+            "subtitle": "Databricks",
+            "description": "This certification validates expertise in deploying, monitoring, and managing ML models at scale using Databricks, focusing on MLOps best practices, automation, and collaborative workflows.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/databricks.jpg",
+            "url": "https://credentials.databricks.com/796c84c3-39c2-4b2c-a828-e6690f74d81e?username=srinivasbaipalli934408"
+        },
+        {
+            "title": "Graph Developer - Professional",
+            "subtitle": "Apollo Graphql",
+            "description": "This certification demonstrate strong familiarity with Apollo Federation concepts. They can apply those concepts to build a federated supergraph or move an existing monolithic graph to federation.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/apollo.jpg",
+            "url": "https://www.apollographql.com/tutorials/certifications/5ad6707f-c6c6-4ee0-be30-920877de64ed"
+        },
+        {
+            "title": "Graph Developer - Associate",
+            "subtitle": "Apollo Graphql",
+            "description": "This certification demonstrates foundational knowledge of GraphQL and Apollo, including schema design, running Apollo Server 4, and performing frontend queries using Apollo Client 3.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/apollo.jpg",
+            "url": "https://www.apollographql.com/tutorials/certifications/8b48798a-cb9d-498a-99a1-2352cc08610c"
+        },
+        {
+            "title": "API Orchestration - Associate",
+            "subtitle": "Apollo Graphql",
+            "description": "This certification demonstrates foundational knowledge of API orchestration with Apollo Connectors, enabling REST API integration, selection mapping transformation, and orchestrating multiple REST calls using entities within a GraphQL schema.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/apollo.jpg",
+            "url": "https://www.apollographql.com/tutorials/certifications/984342a0-6beb-41aa-ba88-ac30d11f62c3"
+        },
+        {
+            "title": "CS50: Introduction to Computer Science",
+            "subtitle": "Edx HarvardX",
+            "description": "This is a course of study offered by HarvardX, an online learning initiative of Harvard University through edX.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/edx.jpg",
+            "url": "https://courses.edx.org/certificates/cfdbf919a099417ab1ea259741291ac2"
+        },
+        {
+            "title": "Computer Science 101",
+            "subtitle": "Stanford University",
+            "description": "This is a course of study offered by Stanford University, an online learning initiative of Stanford University Stanford Online.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/standford.jpg",
+            "url": "https://prod-cert-bucket.s3.amazonaws.com/downloads/2c9c3cc2083a47d79cc5a96a23498d7a/Statement.pdf"
+        },
+        {
+            "title": "AWS Certified Developer - Associate",
+            "subtitle": "Linkedin",
+            "description": "This certification validates proficiency in developing, testing, deploying, and debugging AWS cloud applications, requiring one or more years of hands-on experience in developing and maintaining AWS-based applications.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/e760631f31af562c4deb196509993d36f88fd6a236e28186d497a755f3e090fd?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B5agvZDnHSpGAMTo7vlMQXQ%3D%3D"
+        },
+        {
+            "title": "AWS Certified Solutions Architect - Professional",
+            "subtitle": "Linkedin",
+            "description": "This certification validates advanced skills in designing distributed systems on AWS, targeting individuals with deep knowledge of AWS services, architecture best practices, and the ability to design scalable, reliable, and cost-effective solutions.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/1e7a1f7a0ea7e0532e0c66e45a26eac74ab3e1a216b5c1ba5c736946d19670e7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B%2F2jTJlHIT26DRfXS35CiWg%3D%3D"
+        },
+        {
+            "title": "Legacy Front End",
+            "subtitle": "Free Code Camp",
+            "description": "This certification is a 300-hour program designed to teach the fundamentals of web development. This certification focuses on building a strong foundation in HTML, CSS, Responsive Web Design, JavaScript, and jQuery.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/freecodecamp.jpg",
+            "url": "https://www.freecodecamp.org/certification/bmsrinivasrao007/legacy-front-end"
+        },
+        {
+            "title": "Artificial Intelligence Foundations: Machine Learning",
+            "subtitle": "LinkedIn",
+            "description": "This course offers a beginner-friendly introduction to machine learning concepts, including supervised and unsupervised learning, model training, evaluation, and building ML pipelines.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/a8880523cb5ff933e7515c8d5f66bea99d54dda25292631ea59381d1c7405bc4"
+        },
+        {
+            "title": "Generative AI and Large Language Models on AWS",
+            "subtitle": "LinkedIn",
+            "description": "This course teaches setting up cloud-based Rust environments, building serverless workflows with AWS Lambda and Step Functions, and using tools like AWS CodeCatalyst, SageMaker, and Amazon Bedrock for model orchestration and data workflows.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/39d0941a2dcba4f28d30457a823f2c780dde903ea2ef71b4251bbf44b67ea4f5"
+        },
+        {
+            "title": "Programming Foundations: Design Patterns",
+            "subtitle": "LinkedIn",
+            "description": "This course introduces essential object-oriented design patterns like Strategy, Adapter, Observer, and Decorator, with practical Java examples and occasional insights in Python and JavaScript, ideal for intermediate developers.​",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/59474422cbd7982a39a14150b0977bc9fe9636eb0c4d407d46228784c3e2fe19"
+        },
+        {
+            "title": "Javascript (Basic)",
+            "subtitle": "Hacker Rank",
+            "description": "This certification possess a basic knowledge on Javascript which covers topics like, Functions, Currying, Hoisting, Scope, Inheritance, Events and Error Handling.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/hackerrank.jpg",
+            "url": "https://www.hackerrank.com/certificates/55a0177c19ef"
+        },
+        {
+            "title": "Angular (Basic)",
+            "subtitle": "Hacker Rank",
+            "description": "This certification possess a basic knowledge on Angular which covers topics like MVC Frameworks, Components (Angular, Dynamic, Styling), TypeScript, Two Way Binding and Form Validation.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/hackerrank.jpg",
+            "url": "https://www.hackerrank.com/certificates/772ff811d48c"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Digital Sciences",
+            "university": "Kent State University",
+            "date": "Aug 2016 - Dec 2017",
+            "major": "Digital Systems Software Development",
+            "gpa": "3.7 out of 4.0",
+            "courses": [
+                "Algorithm and Programming with Data Structures",
+                "Enterprise Architecture",
+                "Data Science",
+                "Database Management Systems",
+                "Application & Technology Architecture",
+                "Requirements & Engineering",
+                "VB Programming in Engineering",
+                "Capstone in Digital Sciences"
+            ],
+            "iconUrl": "kent.png",
+            "location": "Kent, Ohio, United States.",
+            "url": "https://www.kent.edu/",
+            "certificateUrl": "https://github.com/msrbaipalli/portfolio-data/blob/main/files/degrees/mastersdegree.pdf"
+        },
+        {
+            "degree": "Bachelor of Technology",
+            "university": "Jawaharlal Nehru Technology University",
+            "date": "May 2012 - Apr 2016",
+            "major": "Computer Science and Engineering",
+            "gpa": "3.2 out of 4.0",
+            "courses": [
+                "Computer Programming & Data Structures",
+                "Data Communications & Computer Networks",
+                "Data Structure through C++",
+                " Data Warehouse & Data Mining",
+                "Database Management Systems",
+                "Object Oriented Analysis & Design",
+                "Design Patterns",
+                "Design & Analysis of Algorithms",
+                "Formal Languages & Automata Theory"
+            ],
+            "iconUrl": "jntuh.png",
+            "location": "Hyderabad, Telangana, India.",
+            "url": "https://jntuh.ac.in/",
+            "certificateUrl": "https://github.com/msrbaipalli/portfolio-data/blob/main/files/degrees/btechdegree.pdf"
+        }
+    ],
+    "experiences": [
+        {
+            "title": "Sr Software Engineer - Team Lead",
+            "company": "UnitedHealth Group - Optum",
+            "date": "Jan 2022 - Current",
+            "location": "Raleigh, North Carolina, United States.",
+            "description": "UnitedHealth Group is a health care and well-being company with team members in two distinct and complementary businesses - Optum and UnitedHealthcare - working to help build a modern, high-performing health system.",
+            "projects": [
+                {
+                    "projectName": "Provider Search Experience",
+                    "projectDescription": "Currently leading a federated team to develop and enhance the Optum Provider Search Experience — a key product used by millions of people to help patients easily find and connect with healthcare providers within the Optum network. This platform offers a user-friendly, dynamic search tool that allows users to filter providers based on multiple criteria such as location, specialty, language, and gender, making it easier for patients to access the right care. By improving the search functionality and overall user experience, the product plays a critical role in empowering millions of patients and streamlining healthcare access."
+                },
+                {
+                    "projectName": "Optum Data Exchange",
+                    "projectDescription": "Led a team in developing user interface applications for the Optum Data Exchange platform, a critical system that facilitates the secure and efficient exchange of clinical data between healthcare providers. Focused on enhancing the platform's usability and performance, enabling providers to access and share patient data seamlessly. This work directly supports the healthcare industry's transition to more integrated and data-driven care, improving patient outcomes and operational efficiency."
+                }
+            ],
+            "skills": [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "Angular 17",
+                "React",
+                "Java Spring Boot",
+                "GraphQL",
+                "Ngx Bootstrap",
+                "Karma",
+                "Jasmine Unit Test",
+                "JSON",
+                "SPLUNK",
+                "SASS",
+                "Node",
+                "npm",
+                "Agile",
+                "Jenkins",
+                "Genesis",
+                "Visual Studio Code",
+                "Postman",
+                "Source Tree",
+                "GIT",
+                "Rally",
+                "Azure Cloud"
+            ],
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/companies/uhg.jpg",
+            "url": "https://www.optum.com/en/"
+        },
+        {
+            "title": "Software Developer",
+            "company": "Egen Solutions",
+            "date": "Feb 2018 - Dec 2021",
+            "location": "Naperville, Illinois, United States.",
+            "description": "Egen Solutions is an enterprise web and mobile application development firm dedicated to build better user experiences at the for front of design. Egen also has an IT Talent Acquisition division and places highly skilled tech professionals in companies across the US.",
+            "projects": [
+                {
+                    "projectName": "Client Onboaring - Raymond James Financial, Inc. ",
+                    "projectDescription": "Contributed to the development and enhancement of the Client Onboarding application — a mission-critical, web-based platform used by Raymond James Financial Advisors and internal teams to efficiently open, manage, and maintain client profiles and financial accounts. Played a key role in implementing new features, optimizing workflows, and ensuring regulatory compliance, resulting in a more streamlined and user-friendly onboarding experience. The platform supports thousands of users daily and is integral to the firm's client relationship management and operational efficiency."
+                }
+            ],
+            "skills": [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "AngularJS 1.6 and 8",
+                "Angular Material",
+                "Ngx Bootstrap",
+                "Java Spring Boot",
+                "AJAX",
+                "JSON",
+                "SASS",
+                "LESS",
+                "Node",
+                "npm",
+                "Agile",
+                "Jenkins",
+                "Genesis",
+                "Visual Studio Code",
+                "IntelliJ",
+                "Postman",
+                "Source Tree",
+                "GIT",
+                "TFS"
+            ],
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/companies/egen.jpg",
+            "url": "https://egen.ai/"
+        },
+        {
+            "title": "Application Developer",
+            "company": "Kent State University",
+            "date": "Nov 2016 - Dec 2017",
+            "location": "Kent, Ohio, United States.",
+            "description": "Kent State University is a large, primary residential, public research university in Kent, Ohio. It has serval IT divisions which services on software solutions to the Organization. The application Service Request Management is a part of Technology Department at University College which supports day-to-day jobs of managing a wide range of requests such as IT support requests, project requests, service requests, application development requests, media design requests, etc. from internal and external clients.",
+            "projects": [
+                {
+                    "projectName": "Service Request Management",
+                    "projectDescription": "Developed and enhanced a comprehensive Service Request Management application for the Technology Department at University College. The platform streamlined the intake, tracking, and resolution of diverse requests — including IT support, project management, application development, media design, and other technical services — from both internal and external stakeholders. The system significantly improved operational efficiency by centralizing request workflows, automating status updates, and enabling better resource allocation. This solution played a key role in supporting the department’s day-to-day operations and elevating service delivery standards across the college."
+                }
+            ],
+            "skills": [
+                "Angular 2",
+                "Type Script",
+                "HTML4/5",
+                "CSS3/2",
+                "C#",
+                "ASP/ADO.NET 4.0",
+                "Bootstrap3",
+                "JavaScript",
+                "Responsive Web Design",
+                "AJAX",
+                "JSON",
+                "MS SQL Server 2008",
+                "Visual Studio 2017",
+                "GitLab"
+            ],
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/companies/kent.jpg",
+            "url": "https://www.kent.edu/"
+        }
+    ],
+    "skills": [
+        {
+            "title": "Frontend Development",
+            "sections": [
+                {
+                    "sectionTitle": "Languages",
+                    "sectionItems": [
+                        "JavaScript",
+                        "TypeScript",
+                        "HTML5",
+                        "CSS3"
+                    ]
+                },
+                {
+                    "sectionTitle": "Frameworks",
+                    "sectionItems": [
+                        "Angular 17+",
+                        "React",
+                        "React Native",
+                        "LIT",
+                        "Tailwind CSS",
+                        "Bootstrap",
+                        "Material-UI",
+                        "D3.js"
+                    ]
+                },
+                {
+                    "sectionTitle": "State Management",
+                    "sectionItems": [
+                        "NgRx",
+                        "Redux",
+                        "Zustand"
+                    ]
+                },
+                {
+                    "sectionTitle": "Testing Frameworks",
+                    "sectionItems": [
+                        "Cypress",
+                        "Playwright",
+                        "Jest",
+                        "Selenium"
+                    ]
+                },
+                {
+                    "sectionTitle": "Tools & Platforms",
+                    "sectionItems": [
+                        "Webpack",
+                        "Parcel",
+                        "npm",
+                        "Figma"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Backend Development",
+            "sections": [
+                {
+                    "sectionTitle": "Languages",
+                    "sectionItems": [
+                        "Java",
+                        "Python",
+                        "SQL",
+                        "C#"
+                    ]
+                },
+                {
+                    "sectionTitle": "Frameworks",
+                    "sectionItems": [
+                        "Java Spring Boot",
+                        "Node.js",
+                        "Express.js",
+                        ".Net Entity"
+                    ]
+                },
+                {
+                    "sectionTitle": "Web Services",
+                    "sectionItems": [
+                        "GraphQL",
+                        "REST"
+                    ]
+                },
+                {
+                    "sectionTitle": "Databases",
+                    "sectionItems": [
+                        "MS SQL Server",
+                        "PostgreSQL",
+                        "MySQL",
+                        "MongoDB"
+                    ]
+                },
+                {
+                    "sectionTitle": "Tools & Platforms",
+                    "sectionItems": [
+                        "Postman",
+                        "SPLUNK"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "DevOps Development",
+            "sections": [
+                {
+                    "sectionTitle": "Cloud Services",
+                    "sectionItems": [
+                        "Amazon Web Services (AWS)",
+                        "Microsoft Azure Cloud"
+                    ]
+                },
+                {
+                    "sectionTitle": "Tools & Platforms",
+                    "sectionItems": [
+                        "Jenkins",
+                        "Docker",
+                        "Git",
+                        "GitHub Copilot",
+                        "Git Actions",
+                        "SonarQube",
+                        "Datadog",
+                        "Rally"
+                    ]
+                }
+            ]
+        }
+    ]
+}
