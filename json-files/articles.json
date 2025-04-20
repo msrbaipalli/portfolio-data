@@ -1,5 +1,13 @@
 [
   {
+    "title": "The Role of AI in Modern Healthcare",
+    "description": "Artificial Intelligence, or AI, isn’t just a fancy tech term anymore. It’s actually making a big difference in the real world, especially in healthcare. From helping doctors find problems faster to making patient care more personal, AI is changing the way we experience healthcare. In this article, I will explain how AI is used in healthcare, using simple and easy-to-understand examples.",
+    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/aihealth.jpg",
+    "articleUrl": "https://medium.com/path-to-care/the-role-of-ai-in-modern-healthcare-eb108c43f13f",
+    "type": "healthcare",
+    "filterTypes": "healthcare, technology"
+  },
+  {
     "title": "How AI is Changing the Way We Code (And Why It’s Pretty Awesome)",
     "description": "Lately, I’ve been thinking about how much the developer world has changed in just the past couple of years, especially with AI stepping into our daily workflows. It’s honestly wild how fast things are moving.",
     "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/aicoding.jpg",
