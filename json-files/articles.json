@@ -2,7 +2,7 @@
   {
     "title": "The Role of AI in Modern Healthcare",
     "description": "Artificial Intelligence, or AI, isn’t just a fancy tech term anymore. It’s actually making a big difference in the real world, especially in healthcare. From helping doctors find problems faster to making patient care more personal, AI is changing the way we experience healthcare. In this article, I will explain how AI is used in healthcare, using simple and easy-to-understand examples.",
-    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/aihealth.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/aihealth.jpg",
     "articleUrl": "https://medium.com/path-to-care/the-role-of-ai-in-modern-healthcare-eb108c43f13f",
     "type": "healthcare",
     "filterTypes": "healthcare, technology"
@@ -10,7 +10,7 @@
   {
     "title": "How AI is Changing the Way We Code (And Why It’s Pretty Awesome)",
     "description": "Lately, I’ve been thinking about how much the developer world has changed in just the past couple of years, especially with AI stepping into our daily workflows. It’s honestly wild how fast things are moving.",
-    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/aicoding.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/aicoding.jpg",
     "articleUrl": "https://medium.com/@msrbaipalli/how-ai-is-changing-the-way-we-code-and-why-its-pretty-awesome-262d8fa56f14",
     "type": "technology",
     "filterTypes": "technology, programming"
@@ -18,7 +18,7 @@
   {
     "title": "The Impact of AI on Modern App User Interfaces",
     "description": "The way we interact with apps today is drastically different from just a few years ago. We’re no longer tapping through rigid menus or waiting for static pages to load. Now, apps feel more alive — learning from us, adapting to us, and even talking back. What’s behind this transformation? One big driver is Artificial Intelligence (AI).",
-    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/AI.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/AI.jpg",
     "articleUrl": "https://medium.com/@msrbaipalli/the-impact-of-ai-on-modern-app-user-interfaces-7750c6be7e8b",
     "type": "technology",
     "filterTypes": "technology, programming"
@@ -26,7 +26,7 @@
   {
     "title": "Leveraging GraphQL for Healthcare Provider Data",
     "description": "We know how critical accurate and structured provider data is in today’s digital healthcare systems. Whether it’s helping patients connect with the right doctors, managing complex provider directories, or supporting insurance networks, backend systems must be fast, scalable, and adaptable.We know how critical accurate and structured provider data is in today’s digital healthcare systems.",
-    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/graphqlhealthcare.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/graphqlhealthcare.jpg",
     "articleUrl": "https://medium.com/@msrbaipalli/leveraging-graphql-for-healthcare-provider-data-c5a881232d44",
     "type": "healthcare",
     "filterTypes": "healthcare, programming"
@@ -34,84 +34,84 @@
   {
     "title": "Understanding Angular Standalone Components",
     "description": "If you’ve been working with Angular, you probably know the usual drill: you create a component, and then you add it to a module. It’s like the component needs a home (the module) before it can exist in your app. But guess what? With the introduction of standalone components in Angular 14, that’s no longer a strict rule. ",
-    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/angular.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/angular.jpg",
     "articleUrl": "https://medium.com/@msrbaipalli/understanding-angular-standalone-components-60f29ec18ac8",
     "type": "programming"
   },
   {
     "title": "How Powerful GraphQL Is: Combining Multiple APIs into One Unified Interface",
     "description": "GraphQL has completely changed how I approach APIs. I used to think of it as a nice-to-have — a buzzword from dev conferences. But the moment I used it to unify multiple data sources into one clean API layer, I was sold. In this intro guide, I break down what GraphQL is, how it compares with REST",
-    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/graphql.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/graphql.jpg",
     "articleUrl": "https://medium.com/@msrbaipalli/how-powerful-graphql-is-combining-multiple-apis-into-one-unified-interface-da81c1e5af6b",
     "type": "programming"
   },
   {
     "title": "Revolutionizing Healthcare Provider Search: Enhancing Access and Efficiency",
     "description": "In today’s fast-paced digital world, finding the right healthcare provider should be as seamless as ordering a meal or booking a flight. However, many patients still face significant hurdles in identifying the best providers for their needs. A robust and user-friendly healthcare provider search system is essential to ensure that individuals can access quality care without unnecessary delays.",
-    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/1.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/1.jpg",
     "articleUrl": "https://medium.com/path-to-care/revolutionizing-healthcare-provider-search-enhancing-access-and-efficiency-ee1fb1393af0",
     "type": "healthcare"
   },
   {
     "title": "How a Simple and Smart UI Can Make Finding Healthcare Providers Easier",
     "description": "Let’s be honest — searching for a healthcare provider online can be frustrating. You’re already dealing with health concerns, and the last thing you need is a clunky website with confusing menus, endless clicks, and outdated information. A well-designed, intuitive user interface (UI) can change all that, making it easier and faster to find the right doctor. Here’s how:",
-    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/2.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/2.jpg",
     "articleUrl": "https://medium.com/path-to-care/how-a-simple-and-smart-ui-can-make-finding-healthcare-providers-easier-6425adc16c1a",
     "type": "healthcare"
   },
   {
     "title": "Improving Access to Healthcare: The Role of AI in Provider Search",
     "description": "In the evolving landscape of healthcare, one of the most significant challenges is ensuring that individuals can easily find the right healthcare providers. Access to quality healthcare is not just about the availability of services but also the ease of locating them. In my previous articles, I discussed how a smart UI design can simplify this process",
-    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/3.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/3.jpg",
     "articleUrl": "https://medium.com/path-to-care/improving-access-to-healthcare-the-role-of-ai-in-provider-search-4346b484a854",
     "type": "healthcare"
   },
   {
     "title": "AI-Based Provider Matching: Transforming Healthcare Access",
     "description": "In my previous article, Improving Access to Healthcare: The Role of AI in Provider Search, I discussed how AI is reshaping the way patients find healthcare providers. Expanding on that, this article explores AI-based provider matching and how it enhances personalization and efficiency in healthcare access.",
-    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/4.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/4.jpg",
     "articleUrl": "https://medium.com/path-to-care/ai-based-provider-matching-transforming-healthcare-access-d952b2acfe4f",
     "type": "healthcare"
   },
   {
     "title": "Angular 19 Signals: A New Era of Reactivity",
     "description": "If you’re an Angular developer, you’ve probably heard the buzz around Signals in Angular 19. And let me tell you, this is a game-changer! Angular has always been great, but Signals bring in a whole new level of fine-grained reactivity, making state management smoother, more efficient, and way more predictable.",
-    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/5.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/5.jpg",
     "articleUrl": "https://medium.com/@msrbaipalli/angular-19-signals-a-new-era-of-reactivity-1666fa94cb38",
     "type": "programming"
   },
   {
     "title": "Getting Started with GraphQL: A Modern API Approach",
     "description": "If you’ve ever worked with REST APIs, you know the struggle — over-fetching data, multiple endpoints, and juggling unnecessary responses. Enter GraphQL, the modern solution developers love for its flexibility and efficiency.",
-    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/6.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/6.jpg",
     "articleUrl": "https://medium.com/@msrbaipalli/getting-started-with-graphql-a-modern-api-approach-ce7adbe04017",
     "type": "programming"
   },
   {
     "title": "Fixing the Mess in Healthcare Provider Search: What’s Wrong and How We Can Solve It",
     "description": "Ever tried searching for a doctor online, only to find out their address is outdated, they’re not accepting new patients, or — worse — they’re not even in your insurance network? You’re not alone. Government reports from CMS, ASPE, and state agencies show that nearly half of provider directories contain errors. That’s a huge problem when people rely on these directories for care.",
-    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/7.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/7.jpg",
     "articleUrl": "https://medium.com/path-to-care/fixing-the-mess-in-healthcare-provider-search-whats-wrong-and-how-we-can-solve-it-e8e7d068c228",
     "type": "healthcare"
   },
   {
     "title": "Building a Unified Provider Directory: Reshaping Healthcare for Providers",
     "description": "In today’s complex healthcare system, providers struggle to keep their information accurate and up to date across multiple directories. Poor data management creates extra work, slows down care coordination, and can lead to compliance issues. A single, unified provider directory can simplify the process and make things more efficient for healthcare providers.",
-    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/8.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/8.jpg",
     "articleUrl": "https://medium.com/path-to-care/building-a-unified-provider-directory-reshaping-healthcare-for-providers-efe6b6d9fbd2",
     "type": "healthcare"
   },
   {
     "title": "How Are Healthcare Providers Being Registered Today?",
     "description": "I’ve been thinking about how healthcare providers get registered and how that whole process works. It’s actually pretty interesting and important, especially when you think about how millions of people rely on these systems to find doctors and specialists.",
-    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/9.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/9.jpg",
     "articleUrl": "https://medium.com/path-to-care/how-are-healthcare-providers-being-registered-today-a0d7cc216ba8",
     "type": "healthcare"
   },
   {
     "title": "Why Choose React?",
     "description": "React is one of the most popular JavaScript libraries for building user interfaces, especially for single-page applications. React allows to create reusable UI components that can manage complex interactions in a scalable and efficient way. Whether you're a seasoned developer or a beginner, React’s component-based architecture and declarative syntax make it a versatile tool for building modern web applications.",
-    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/10.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/10.jpg",
     "articleUrl": "https://www.linkedin.com/pulse/why-choose-react-srinivas-baipalli-dg82e/?trackingId=1DPdajY0B%2FlYa80gKXnKdw%3D%3D",
     "type": "programming"
   }
