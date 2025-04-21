@@ -211,6 +211,13 @@
             "url": "https://www.linkedin.com/learning/certificates/39d0941a2dcba4f28d30457a823f2c780dde903ea2ef71b4251bbf44b67ea4f5"
         },
         {
+            "title": "Generative AI: Introduction to Large Language Models",
+            "subtitle": "LinkedIn",
+            "description": "This course offers a beginner-friendly overview of generative AI tools like ChatGPT and DALL·E, explaining their functions and roles within the AI ecosystem.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/c67aafd05c879b49d883de8f7402d70537ce80c1aa89e5ce03de8f421b5835a7"
+        },
+        {
             "title": "Programming Foundations: Design Patterns",
             "subtitle": "LinkedIn",
             "description": "This course introduces essential object-oriented design patterns like Strategy, Adapter, Observer, and Decorator, with practical Java examples and occasional insights in Python and JavaScript, ideal for intermediate developers.​",
