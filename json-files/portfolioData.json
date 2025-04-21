@@ -180,14 +180,14 @@
             "subtitle": "Linkedin",
             "description": "This certification validates proficiency in developing, testing, deploying, and debugging AWS cloud applications, requiring one or more years of hands-on experience in developing and maintaining AWS-based applications.",
             "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
-            "url": "https://www.linkedin.com/learning/certificates/e760631f31af562c4deb196509993d36f88fd6a236e28186d497a755f3e090fd?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B5agvZDnHSpGAMTo7vlMQXQ%3D%3D"
+            "url": "https://www.linkedin.com/learning/certificates/e760631f31af562c4deb196509993d36f88fd6a236e28186d497a755f3e090fd"
         },
         {
             "title": "AWS Certified Solutions Architect - Professional",
             "subtitle": "Linkedin",
             "description": "This certification validates advanced skills in designing distributed systems on AWS, targeting individuals with deep knowledge of AWS services, architecture best practices, and the ability to design scalable, reliable, and cost-effective solutions.",
             "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
-            "url": "https://www.linkedin.com/learning/certificates/1e7a1f7a0ea7e0532e0c66e45a26eac74ab3e1a216b5c1ba5c736946d19670e7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B%2F2jTJlHIT26DRfXS35CiWg%3D%3D"
+            "url": "https://www.linkedin.com/learning/certificates/1e7a1f7a0ea7e0532e0c66e45a26eac74ab3e1a216b5c1ba5c736946d19670e7"
         },
         {
             "title": "Legacy Front End",
@@ -195,6 +195,13 @@
             "description": "This certification is a 300-hour program designed to teach the fundamentals of web development. This certification focuses on building a strong foundation in HTML, CSS, Responsive Web Design, JavaScript, and jQuery.",
             "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/freecodecamp.jpg",
             "url": "https://www.freecodecamp.org/certification/bmsrinivasrao007/legacy-front-end"
+        },
+        {
+            "title": "GraphQL for Enterprise Developers",
+            "subtitle": "Linkedin",
+            "description": "This course offers a practical guide to building scalable APIs using GraphQL, tailored for enterprise environments with real-world examples, advanced patterns, and performance optimization strategies.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/7957a92383241b4eadd9fd5ffa913b2e0e559d54d1f5df9e303c4b36c8ead797"
         },
         {
             "title": "Artificial Intelligence Foundations: Machine Learning",
