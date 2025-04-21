@@ -127,6 +127,20 @@
     ],
     "certificates": [
         {
+            "title": "CS50: Introduction to Computer Science",
+            "subtitle": "Edx HarvardX",
+            "description": "This is a course of study offered by HarvardX, an online learning initiative of Harvard University through edX.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/edx.jpg",
+            "url": "https://courses.edx.org/certificates/cfdbf919a099417ab1ea259741291ac2"
+        },
+        {
+            "title": "Computer Science 101",
+            "subtitle": "Stanford University",
+            "description": "This is a course of study offered by Stanford University, an online learning initiative of Stanford University Stanford Online.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/standford.jpg",
+            "url": "https://prod-cert-bucket.s3.amazonaws.com/downloads/2c9c3cc2083a47d79cc5a96a23498d7a/Statement.pdf"
+        },
+        {
             "title": "Databricks Accredited Generative AI Fundamentals",
             "subtitle": "Databricks",
             "description": "This certification validates foundational knowledge of generative AI, including core concepts, models, applications, and ethical considerations, empowering professionals to understand and engage with emerging AI technologies.",
@@ -160,20 +174,6 @@
             "description": "This certification demonstrates foundational knowledge of API orchestration with Apollo Connectors, enabling REST API integration, selection mapping transformation, and orchestrating multiple REST calls using entities within a GraphQL schema.",
             "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/apollo.jpg",
             "url": "https://www.apollographql.com/tutorials/certifications/984342a0-6beb-41aa-ba88-ac30d11f62c3"
-        },
-        {
-            "title": "CS50: Introduction to Computer Science",
-            "subtitle": "Edx HarvardX",
-            "description": "This is a course of study offered by HarvardX, an online learning initiative of Harvard University through edX.",
-            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/edx.jpg",
-            "url": "https://courses.edx.org/certificates/cfdbf919a099417ab1ea259741291ac2"
-        },
-        {
-            "title": "Computer Science 101",
-            "subtitle": "Stanford University",
-            "description": "This is a course of study offered by Stanford University, an online learning initiative of Stanford University Stanford Online.",
-            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/standford.jpg",
-            "url": "https://prod-cert-bucket.s3.amazonaws.com/downloads/2c9c3cc2083a47d79cc5a96a23498d7a/Statement.pdf"
         },
         {
             "title": "AWS Certified Developer - Associate",
