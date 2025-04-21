@@ -204,6 +204,13 @@
             "url": "https://www.linkedin.com/learning/certificates/7957a92383241b4eadd9fd5ffa913b2e0e559d54d1f5df9e303c4b36c8ead797"
         },
         {
+            "title": "Spring with GraphQL",
+            "subtitle": "Linkedin",
+            "description": "This course is designed for back-end and full-stack developers aiming to integrate GraphQL with Spring Boot. It covers building, maintaining, and evolving robust GraphQL APIs using the Spring Framework, including advanced topics like mutations, batching, telemetry, error handling, and API extension.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/80f4b6777b36607b2eed0a62ba52ea0ee43fc7226cefb936cae13e11f75a5634"
+        },
+        {
             "title": "Artificial Intelligence Foundations: Machine Learning",
             "subtitle": "LinkedIn",
             "description": "This course offers a beginner-friendly introduction to machine learning concepts, including supervised and unsupervised learning, model training, evaluation, and building ML pipelines.",
