@@ -9,6 +9,14 @@
             "filterTypes": "healthcare, technology"
         },
         {
+            "title": "Angular’s Selectorless Components — A Clean Way to Reuse Logic",
+            "description": "Angular is always improving, and one of the newer features that developers are starting to notice is selectorless components. If you’re building large, reusable UIs and want more control over your HTML structure, this feature is worth checking out.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/angular-selectorless.jpg",
+            "articleUrl": "https://medium.com/@msrbaipalli/angulars-selectorless-components-a-clean-way-to-reuse-logic-173c203efff3",
+            "type": "healthcare",
+            "filterTypes": "programming"
+        },
+        {
             "title": "How AI is Changing the Way We Code (And Why It’s Pretty Awesome)",
             "description": "Lately, I’ve been thinking about how much the developer world has changed in just the past couple of years, especially with AI stepping into our daily workflows. It’s honestly wild how fast things are moving.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/aicoding.jpg",
