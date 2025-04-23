@@ -10,6 +10,14 @@
     },
     "articles": [
         {
+            "title": "Can Technology Heal What’s Broken in U.S. Healthcare?",
+            "description": "Let’s face it — healthcare in the U.S. can feel like a maze. You get sick, try to find the right doctor, figure out if they take your insurance, wait weeks for an appointment, and then get hit with a confusing bill. It’s stressful. It’s expensive. And for a country as advanced as the U.S., it shouldn’t be this hard.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/health0422.jpg",
+            "articleUrl": "https://medium.com/path-to-care/can-technology-heal-whats-broken-in-u-s-healthcare-b7e6d1ef27fd",
+            "type": "healthcare",
+            "filterTypes": "healthcare, technology"
+        },
+        {
             "title": "The Role of AI in Modern Healthcare",
             "description": "Artificial Intelligence, or AI, isn’t just a fancy tech term anymore. It’s actually making a big difference in the real world, especially in healthcare. From helping doctors find problems faster to making patient care more personal, AI is changing the way we experience healthcare. In this article, I will explain how AI is used in healthcare, using simple and easy-to-understand examples.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/aihealth.jpg",
