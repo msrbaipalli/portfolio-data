@@ -19,6 +19,14 @@
             "filterTypes": "healthcare, technology"
         },
         {
+            "title": "What is an AI Agent and How Is It Used?",
+            "description": "We hear about Artificial Intelligence (AI) everywhere these days — from Siri helping us send texts, to chatbots answering questions on websites, to cars that practically drive themselves. But behind many of these smart systems is something called an AI Agent. Sounds a little sci-fi, right? Don’t worry — let’s break it down in a way that makes sense.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/aiagent0423.jpg",
+            "articleUrl": "https://medium.com/@msrbaipalli/what-is-an-ai-agent-and-how-is-it-used-ec5bd6a59fd0",
+            "type": "healthcare",
+            "filterTypes": "technology"
+        },
+        {
             "title": "The Role of AI in Modern Healthcare",
             "description": "Artificial Intelligence, or AI, isn’t just a fancy tech term anymore. It’s actually making a big difference in the real world, especially in healthcare. From helping doctors find problems faster to making patient care more personal, AI is changing the way we experience healthcare. In this article, I will explain how AI is used in healthcare, using simple and easy-to-understand examples.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/aihealth.jpg",
