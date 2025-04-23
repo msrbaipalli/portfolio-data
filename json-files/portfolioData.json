@@ -1,5 +1,6 @@
 {
     "about": {
+        "showDownloadResume": true,
         "resumeUrl": "https://github.com/msrbaipalli/portfolio-data/blob/main/files/resume/Srinivas%20Baipalli%20Resume.pdf",
         "lines": [
             "I'm a Lead Software Engineer with a passion for building clean, intuitive, and high-performing applications. Since 2016, I’ve been helping teams bring ideas to life—designing scalable systems, solving complex problems, and delivering products that create real impact.",
@@ -297,7 +298,8 @@
             "iconUrl": "kent.png",
             "location": "Kent, Ohio, United States.",
             "url": "https://www.kent.edu/",
-            "certificateUrl": "https://github.com/msrbaipalli/portfolio-data/blob/main/files/degrees/mastersdegree.pdf"
+            "certificateUrl": "https://github.com/msrbaipalli/portfolio-data/blob/main/files/degrees/mastersdegree.pdf",
+            "showViewCertificate": true
         },
         {
             "degree": "Bachelor of Technology",
@@ -319,7 +321,8 @@
             "iconUrl": "jntuh.png",
             "location": "Hyderabad, Telangana, India.",
             "url": "https://jntuh.ac.in/",
-            "certificateUrl": "https://github.com/msrbaipalli/portfolio-data/blob/main/files/degrees/btechdegree.pdf"
+            "certificateUrl": "https://github.com/msrbaipalli/portfolio-data/blob/main/files/degrees/btechdegree.pdf",
+            "showViewCertificate": true
         }
     ],
     "experiences": [
