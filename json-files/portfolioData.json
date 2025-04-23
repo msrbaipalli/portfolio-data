@@ -216,6 +216,13 @@
             "url": "https://www.linkedin.com/learning/certificates/1e7a1f7a0ea7e0532e0c66e45a26eac74ab3e1a216b5c1ba5c736946d19670e7"
         },
         {
+            "title": "Machine Learning with Python: Foundations",
+            "subtitle": "Linkedin",
+            "description": "This course introduces core ML concepts using Python, covering data preprocessing, supervised and unsupervised learning, and model evaluation in a beginner-friendly manner.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/28e7cb24b75c9450ff50776f026de549efa89dd461eed9d89da2baae8422949a"
+        },
+        {
             "title": "Legacy Front End",
             "subtitle": "Free Code Camp",
             "description": "This certification is a 300-hour program designed to teach the fundamentals of web development. This certification focuses on building a strong foundation in HTML, CSS, Responsive Web Design, JavaScript, and jQuery.",
