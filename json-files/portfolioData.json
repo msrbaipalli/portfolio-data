@@ -227,6 +227,13 @@
             "url": "https://www.linkedin.com/learning/certificates/a8880523cb5ff933e7515c8d5f66bea99d54dda25292631ea59381d1c7405bc4"
         },
         {
+            "title": "Generative AI for Business Leaders",
+            "subtitle": "LinkedIn",
+            "description": "This course led by Tomer Cohen, LinkedIn’s Chief Product Officer. It equips executives with insights into generative AI's impact on business, covering applications, limitations, and strategies for leveraging this technology to drive innovation and efficiency.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/5ba62d1981883632783b8c99398d0d03a194637540eced60aaaf08102c1c9922"
+        },
+        {
             "title": "Generative AI and Large Language Models on AWS",
             "subtitle": "LinkedIn",
             "description": "This course teaches setting up cloud-based Rust environments, building serverless workflows with AWS Lambda and Step Functions, and using tools like AWS CodeCatalyst, SageMaker, and Amazon Bedrock for model orchestration and data workflows.",
