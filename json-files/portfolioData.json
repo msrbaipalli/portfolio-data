@@ -223,6 +223,13 @@
             "url": "https://www.linkedin.com/learning/certificates/28e7cb24b75c9450ff50776f026de549efa89dd461eed9d89da2baae8422949a"
         },
         {
+            "title": "Python: Working with REST and Web Data",
+            "subtitle": "Linkedin",
+            "description": "This course teaches how to access, retrieve, and process web data using APIs. Learn authentication, JSON parsing, and integration techniques for building real-world Python applications.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/2cdbc3c92ffa71e08f0227d2584011674eb4b02f514d1233326002d263838e6a"
+        },
+        {
             "title": "Legacy Front End",
             "subtitle": "Free Code Camp",
             "description": "This certification is a 300-hour program designed to teach the fundamentals of web development. This certification focuses on building a strong foundation in HTML, CSS, Responsive Web Design, JavaScript, and jQuery.",
