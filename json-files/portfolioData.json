@@ -265,6 +265,13 @@
             "url": "https://www.linkedin.com/learning/certificates/5ba62d1981883632783b8c99398d0d03a194637540eced60aaaf08102c1c9922"
         },
         {
+            "title": "Artificial Intelligence and Business Strategy",
+            "subtitle": "LinkedIn",
+            "description": "This course explores how AI enhances competitive advantage through data-driven strategies, personalized services, and operational efficiency.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/9780cfab02166ceed5da5fe11b337a8289857bb94b983a9c84c985e6bdad80d4"
+        },
+        {
             "title": "Generative AI and Large Language Models on AWS",
             "subtitle": "LinkedIn",
             "description": "This course teaches setting up cloud-based Rust environments, building serverless workflows with AWS Lambda and Step Functions, and using tools like AWS CodeCatalyst, SageMaker, and Amazon Bedrock for model orchestration and data workflows.",
