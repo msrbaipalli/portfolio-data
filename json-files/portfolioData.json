@@ -279,6 +279,13 @@
             "url": "https://www.linkedin.com/learning/certificates/d81be6033ef9f048c22f47374469e83698e1db024c4d1673c098379522969c3a"
         },
         {
+            "title": "Amplify Your Business Writing with AI",
+            "subtitle": "LinkedIn",
+            "description": "This course offers practical strategies to enhance clarity, creativity, and efficiency in business communication by integrating artificial intelligence tools effectively.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/bf47669ff691fe4552e37f24b3c3684ff78eb55d6a9b6e96adab0eb11de53535"
+        },
+        {
             "title": "Generative AI and Large Language Models on AWS",
             "subtitle": "LinkedIn",
             "description": "This course teaches setting up cloud-based Rust environments, building serverless workflows with AWS Lambda and Step Functions, and using tools like AWS CodeCatalyst, SageMaker, and Amazon Bedrock for model orchestration and data workflows.",
