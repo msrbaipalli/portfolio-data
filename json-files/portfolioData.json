@@ -321,7 +321,7 @@
             "location": "Kent, Ohio, United States.",
             "url": "https://www.kent.edu/",
             "certificateUrl": "https://github.com/msrbaipalli/portfolio-data/blob/main/files/degrees/mastersdegree.pdf",
-            "showViewCertificate": true
+            "showViewCertificate": false
         },
         {
             "degree": "Bachelor of Technology",
@@ -344,7 +344,7 @@
             "location": "Hyderabad, Telangana, India.",
             "url": "https://jntuh.ac.in/",
             "certificateUrl": "https://github.com/msrbaipalli/portfolio-data/blob/main/files/degrees/btechdegree.pdf",
-            "showViewCertificate": true
+            "showViewCertificate": false
         }
     ],
     "experiences": [
