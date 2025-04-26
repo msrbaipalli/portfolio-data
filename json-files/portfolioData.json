@@ -272,6 +272,13 @@
             "url": "https://www.linkedin.com/learning/certificates/9780cfab02166ceed5da5fe11b337a8289857bb94b983a9c84c985e6bdad80d4"
         },
         {
+            "title": "Integrating Generative AI into Business Strategy",
+            "subtitle": "LinkedIn",
+            "description": "This course offers a concise, practical guide for organizations aiming to adopt generative AI effectively. The course introduces the USAGE framework—Understand, Survey, Align, Guide, Evaluate—providing actionable steps to align AI initiatives with business goals, assess readiness, and implement responsibly.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/d81be6033ef9f048c22f47374469e83698e1db024c4d1673c098379522969c3a"
+        },
+        {
             "title": "Generative AI and Large Language Models on AWS",
             "subtitle": "LinkedIn",
             "description": "This course teaches setting up cloud-based Rust environments, building serverless workflows with AWS Lambda and Step Functions, and using tools like AWS CodeCatalyst, SageMaker, and Amazon Bedrock for model orchestration and data workflows.",
