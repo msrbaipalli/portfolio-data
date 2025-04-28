@@ -11,6 +11,14 @@
     },
     "articles": [
         {
+            "title": "Why It’s So Hard to Manage Healthcare Provider Data in One Place in the USA",
+            "description": "Imagine trying to put together a giant puzzle where every piece comes from a different company, a different city, and even a different rulebook. That’s what it’s like trying to manage healthcare provider data in the United States.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/04272025.jpg",
+            "articleUrl": "https://medium.com/path-to-care/why-its-so-hard-to-manage-healthcare-provider-data-in-one-place-in-the-usa-a4c692e23d2a",
+            "type": "healthcare",
+            "filterTypes": "healthcare"
+        },
+        {
             "title": "Can Technology Heal What’s Broken in U.S. Healthcare?",
             "description": "Let’s face it — healthcare in the U.S. can feel like a maze. You get sick, try to find the right doctor, figure out if they take your insurance, wait weeks for an appointment, and then get hit with a confusing bill. It’s stressful. It’s expensive. And for a country as advanced as the U.S., it shouldn’t be this hard.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/health0422.jpg",
