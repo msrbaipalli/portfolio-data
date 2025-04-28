@@ -601,7 +601,7 @@
             ]
         },
         {
-            "title": "DevOps Development",
+            "title": "DevOps and AI Development",
             "sections": [
                 {
                     "sectionTitle": "Cloud Services",
@@ -611,12 +611,20 @@
                     ]
                 },
                 {
+                    "sectionTitle": "AI Tools & Platforms",
+                    "sectionItems": [
+                        "OpenAI API",
+                        "ChatGPT",
+                        "GitHub Copilot",
+                        "Databricks"
+                    ]
+                },
+                {
                     "sectionTitle": "Tools & Platforms",
                     "sectionItems": [
                         "Jenkins",
                         "Docker",
                         "Git",
-                        "GitHub Copilot",
                         "Git Actions",
                         "SonarQube",
                         "Datadog",
