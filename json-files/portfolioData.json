@@ -315,6 +315,13 @@
             "url": "https://www.linkedin.com/learning/certificates/c67aafd05c879b49d883de8f7402d70537ce80c1aa89e5ce03de8f421b5835a7"
         },
         {
+            "title": "Blockchain: Beyond the Basics",
+            "subtitle": "LinkedIn",
+            "description": "This course explores advanced blockchain concepts, applications across industries, emerging trends, and future possibilities, offering a deeper understanding for professionals seeking practical, real-world insights.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/a1d2c6681f9502f7cf9acb00f5174d4e575025ae2a832fa92406567a7b84c667"
+        },
+        {
             "title": "Programming Foundations: Design Patterns",
             "subtitle": "LinkedIn",
             "description": "This course introduces essential object-oriented design patterns like Strategy, Adapter, Observer, and Decorator, with practical Java examples and occasional insights in Python and JavaScript, ideal for intermediate developers.​",
@@ -616,7 +623,8 @@
                         "OpenAI API",
                         "ChatGPT",
                         "GitHub Copilot",
-                        "Databricks"
+                        "Databricks",
+                        "Blockchain"
                     ]
                 },
                 {
