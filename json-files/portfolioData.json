@@ -1,5 +1,6 @@
 {
     "about": {
+        "showPatentWork": true,
         "showDownloadResume": true,
         "resumeUrl": "https://github.com/msrbaipalli/portfolio-data/blob/main/files/resume/Srinivas%20Baipalli%20Resume.pdf",
         "lines": [
