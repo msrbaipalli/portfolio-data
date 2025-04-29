@@ -322,6 +322,13 @@
             "url": "https://www.linkedin.com/learning/certificates/a1d2c6681f9502f7cf9acb00f5174d4e575025ae2a832fa92406567a7b84c667"
         },
         {
+            "title": "Blockchain: Learning Solidity",
+            "subtitle": "LinkedIn",
+            "description": "This course offers a beginner-friendly guide to mastering Solidity, the programming language essential for developing smart contracts on the Ethereum blockchain, with practical, hands-on examples.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/e9290f9062377bde9890da803f3e4ceb2ebd7b680b5e215d07c48a7e4f262507"
+        },
+        {
             "title": "Programming Foundations: Design Patterns",
             "subtitle": "LinkedIn",
             "description": "This course introduces essential object-oriented design patterns like Strategy, Adapter, Observer, and Decorator, with practical Java examples and occasional insights in Python and JavaScript, ideal for intermediate developers.​",
