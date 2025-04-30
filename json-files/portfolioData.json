@@ -12,6 +12,14 @@
     },
     "articles": [
         {
+            "title": "Transforming Provider Credentialing with AI and Blockchain: My Patent Journey",
+            "description": "One of the biggest challenges in U.S. healthcare today lies in how we verify and manage healthcare provider information. Whether it’s patients searching for in-network doctors, insurance companies trying to process claims accurately, or providers going through tedious credentialing processes, the current system is fragmented, outdated, and inefficient.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/patent-article.jpg",
+            "articleUrl": "https://medium.com/path-to-care/transforming-provider-credentialing-with-ai-and-blockchain-my-patent-journey-e54066a3cb70",
+            "type": "healthcare",
+            "filterTypes": "healthcare, technology"
+        },
+        {
             "title": "Why It’s So Hard to Manage Healthcare Provider Data in One Place in the USA",
             "description": "Imagine trying to put together a giant puzzle where every piece comes from a different company, a different city, and even a different rulebook. That’s what it’s like trying to manage healthcare provider data in the United States.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/04272025.jpg",
