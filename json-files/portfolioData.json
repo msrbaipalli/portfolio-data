@@ -275,6 +275,13 @@
             "url": "https://www.linkedin.com/learning/certificates/1e4edb1a33c5d73100b660074d7aff2f466942e6547c3b0df6d8b9db081b205d"
         },
         {
+            "title": "Artificial Intelligence and Application Security",
+            "subtitle": "LinkedIn",
+            "description": "This course explores how AI transforms cybersecurity, highlighting benefits, risks, and strategies for integrating intelligent systems into secure software development and threat mitigation practices.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/46a4500150abc663e3efd4b0a4dba56ecd262a858703e52ac5ab1229a71b4c3f"
+        },
+        {
             "title": "Artificial Intelligence Foundations: Machine Learning",
             "subtitle": "LinkedIn",
             "description": "This course offers a beginner-friendly introduction to machine learning concepts, including supervised and unsupervised learning, model training, evaluation, and building ML pipelines.",
