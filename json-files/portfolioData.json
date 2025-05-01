@@ -1,7 +1,7 @@
 {
     "about": {
         "showPatentWork": true,
-        "showDownloadResume": true,
+        "showDownloadResume": false,
         "resumeUrl": "https://github.com/msrbaipalli/portfolio-data/blob/main/files/resume/Srinivas%20Baipalli%20Resume.pdf",
         "lines": [
             "I'm a Lead Software Engineer with a passion for building clean, intuitive, and high-performing applications. Since 2016, I’ve been helping teams bring ideas to life—designing scalable systems, solving complex problems, and delivering products that create real impact.",
