@@ -12,6 +12,14 @@
     },
     "articles": [
         {
+            "title": "Understanding Blockchain — And Why It Matters for Innovation",
+            "description": "If you’ve been following the buzz around digital innovation, you’ve probably heard the term blockchain thrown around a lot. It sounds technical, even mysterious, but at its core, blockchain is a simple yet powerful technology that’s transforming the way we handle trust, data, and transparency.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/blockchain.png",
+            "articleUrl": "https://medium.com/@msrbaipalli/understanding-blockchain-and-why-it-matters-for-innovation-0b5071e778b4",
+            "type": "technology",
+            "filterTypes": "healthcare, technology"
+        },
+        {
             "title": "Transforming Provider Credentialing with AI and Blockchain: My Patent Journey",
             "description": "One of the biggest challenges in U.S. healthcare today lies in how we verify and manage healthcare provider information. Whether it’s patients searching for in-network doctors, insurance companies trying to process claims accurately, or providers going through tedious credentialing processes, the current system is fragmented, outdated, and inefficient.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/patent-article.jpg",
