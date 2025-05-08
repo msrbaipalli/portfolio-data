@@ -276,6 +276,13 @@
             "url": "https://www.linkedin.com/learning/certificates/80f4b6777b36607b2eed0a62ba52ea0ee43fc7226cefb936cae13e11f75a5634"
         },
         {
+            "title": "Introduction to MLSecOps",
+            "subtitle": "LinkedIn",
+            "description": "This course explores the fusion of machine learning and security operations, emphasizing secure ML lifecycle management, threat mitigation, and collaboration across data science, DevOps, and security teams.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/a5672b350be7c041e87df3aa7e38c1430237232bdd5717d9950485ef9263cfef"
+        },
+        {
             "title": "Agentic AI Fundamentals: Architectures, Frameworks, and Applications",
             "subtitle": "LinkedIn",
             "description": "This course explores how autonomous AI agents are built, structured, and deployed, covering core architectures, popular frameworks, and real-world applications driving next-generation intelligent systems.",
