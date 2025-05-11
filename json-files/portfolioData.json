@@ -12,6 +12,14 @@
     },
     "articles": [
         {
+            "title": "From Idea to Impact: How AI Agents Can Supercharge Real-Time Healthcare Credentialing",
+            "description": "In healthcare, small delays can lead to big consequences. Imagine discovering your doctor was never properly credentialed — or worse, was flagged for misconduct months ago, but the system failed to update in time.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/ai-agent-in-healthcare.jpg",
+            "articleUrl": "https://medium.com/path-to-care/from-idea-to-impact-how-ai-agents-can-supercharge-real-time-healthcare-credentialing-6bb8ea1a2173",
+            "type": "technology",
+            "filterTypes": "healthcare, technology"
+        },
+        {
             "title": "Understanding Blockchain — And Why It Matters for Innovation",
             "description": "If you’ve been following the buzz around digital innovation, you’ve probably heard the term blockchain thrown around a lot. It sounds technical, even mysterious, but at its core, blockchain is a simple yet powerful technology that’s transforming the way we handle trust, data, and transparency.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/blockchain.png",
