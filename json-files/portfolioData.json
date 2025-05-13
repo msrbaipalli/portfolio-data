@@ -214,6 +214,13 @@
             "url": "https://www.cloudskillsboost.google/public_profiles/64096165-023c-41f0-87d3-cb1cc1fc87c6/badges/15698353"
         },
         {
+            "title": "Introduction to Vertex AI Studio",
+            "subtitle": "Google",
+            "description": "It offers a beginner-friendly overview of building, customizing, and deploying generative AI models using intuitive tools for prompt design, tuning, and multimodal applications.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/google.jpg",
+            "url": "https://www.cloudskillsboost.google/public_profiles/64096165-023c-41f0-87d3-cb1cc1fc87c6/badges/15698738"
+        },
+        {
             "title": "Databricks Accredited Generative AI Fundamentals",
             "subtitle": "Databricks",
             "description": "This certification validates foundational knowledge of generative AI, including core concepts, models, applications, and ethical considerations, empowering professionals to understand and engage with emerging AI technologies.",
