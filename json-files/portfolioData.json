@@ -207,6 +207,13 @@
             "url": "https://www.cloudskillsboost.google/public_profiles/64096165-023c-41f0-87d3-cb1cc1fc87c6/badges/15697373"
         },
         {
+            "title": "Generative AI for Healthcare",
+            "subtitle": "Google",
+            "description": "It course introduces healthcare professionals to generative AI and large language models, covering real-world applications, prompt engineering, and ethical considerations in clinical settings.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/google.jpg",
+            "url": "https://www.cloudskillsboost.google/public_profiles/64096165-023c-41f0-87d3-cb1cc1fc87c6/badges/15698353"
+        },
+        {
             "title": "Databricks Accredited Generative AI Fundamentals",
             "subtitle": "Databricks",
             "description": "This certification validates foundational knowledge of generative AI, including core concepts, models, applications, and ethical considerations, empowering professionals to understand and engage with emerging AI technologies.",
