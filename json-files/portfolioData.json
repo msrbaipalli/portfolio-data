@@ -209,7 +209,7 @@
         {
             "title": "Generative AI for Healthcare",
             "subtitle": "Google",
-            "description": "It course introduces healthcare professionals to generative AI and large language models, covering real-world applications, prompt engineering, and ethical considerations in clinical settings.",
+            "description": "It introduces healthcare professionals to generative AI and large language models, covering real-world applications, prompt engineering, and ethical considerations in clinical settings.",
             "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/google.jpg",
             "url": "https://www.cloudskillsboost.google/public_profiles/64096165-023c-41f0-87d3-cb1cc1fc87c6/badges/15698353"
         },
@@ -254,6 +254,20 @@
             "description": "This certification demonstrates foundational knowledge of API orchestration with Apollo Connectors, enabling REST API integration, selection mapping transformation, and orchestrating multiple REST calls using entities within a GraphQL schema.",
             "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/apollo.jpg",
             "url": "https://www.apollographql.com/tutorials/certifications/984342a0-6beb-41aa-ba88-ac30d11f62c3"
+        },
+        {
+            "title": "Machine Learning Operations (MLOps) for Generative AI",
+            "subtitle": "Google",
+            "description": "This course offers streamlines model development, deployment, monitoring, and governance, enabling scalable, secure, and efficient management of generative AI workflows across enterprises.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/google.jpg",
+            "url": "https://www.cloudskillsboost.google/public_profiles/64096165-023c-41f0-87d3-cb1cc1fc87c6/badges/15714885"
+        },
+        {
+            "title": "Introduction to Responsible AI",
+            "subtitle": "Google",
+            "description": "This course explores ethical AI development, focusing on fairness, transparency, privacy, and accountability to ensure AI systems are trustworthy, inclusive, and aligned with human values.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/google.jpg",
+            "url": "https://www.cloudskillsboost.google/public_profiles/64096165-023c-41f0-87d3-cb1cc1fc87c6/badges/15716152"
         },
         {
             "title": "AWS Certified Developer - Associate",
