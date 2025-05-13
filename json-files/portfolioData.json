@@ -200,6 +200,13 @@
             "url": "https://prod-cert-bucket.s3.amazonaws.com/downloads/2c9c3cc2083a47d79cc5a96a23498d7a/Statement.pdf"
         },
         {
+            "title": "Introduction to Generative AI",
+            "subtitle": "Google",
+            "description": "It is a beginner-friendly course that explains how generative AI works, its applications, benefits, and ethical considerations, using practical examples and Google tools",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/google.jpg",
+            "url": "https://www.cloudskillsboost.google/public_profiles/64096165-023c-41f0-87d3-cb1cc1fc87c6/badges/15697373"
+        },
+        {
             "title": "Databricks Accredited Generative AI Fundamentals",
             "subtitle": "Databricks",
             "description": "This certification validates foundational knowledge of generative AI, including core concepts, models, applications, and ethical considerations, empowering professionals to understand and engage with emerging AI technologies.",
