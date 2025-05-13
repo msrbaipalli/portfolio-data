@@ -270,6 +270,13 @@
             "url": "https://www.cloudskillsboost.google/public_profiles/64096165-023c-41f0-87d3-cb1cc1fc87c6/badges/15716152"
         },
         {
+            "title": "Gen AI: Beyond the Chatbot",
+            "subtitle": "Google",
+            "description": "This course explores generative AI applications beyond chatbots, emphasizing foundation models, prompt engineering, and strategic implementation to drive business transformation across industries.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/google.jpg",
+            "url": "https://www.cloudskillsboost.google/public_profiles/64096165-023c-41f0-87d3-cb1cc1fc87c6/badges/15717072"
+        },
+        {
             "title": "AWS Certified Developer - Associate",
             "subtitle": "Linkedin",
             "description": "This certification validates proficiency in developing, testing, deploying, and debugging AWS cloud applications, requiring one or more years of hands-on experience in developing and maintaining AWS-based applications.",
