@@ -284,13 +284,6 @@
             "url": "https://www.linkedin.com/learning/certificates/2cdbc3c92ffa71e08f0227d2584011674eb4b02f514d1233326002d263838e6a"
         },
         {
-            "title": "Legacy Front End",
-            "subtitle": "Free Code Camp",
-            "description": "This certification is a 300-hour program designed to teach the fundamentals of web development. This certification focuses on building a strong foundation in HTML, CSS, Responsive Web Design, JavaScript, and jQuery.",
-            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/freecodecamp.jpg",
-            "url": "https://www.freecodecamp.org/certification/bmsrinivasrao007/legacy-front-end"
-        },
-        {
             "title": "GraphQL for Enterprise Developers",
             "subtitle": "Linkedin",
             "description": "This course offers a practical guide to building scalable APIs using GraphQL, tailored for enterprise environments with real-world examples, advanced patterns, and performance optimization strategies.",
@@ -401,6 +394,13 @@
             "description": "This course introduces essential object-oriented design patterns like Strategy, Adapter, Observer, and Decorator, with practical Java examples and occasional insights in Python and JavaScript, ideal for intermediate developers.​",
             "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
             "url": "https://www.linkedin.com/learning/certificates/59474422cbd7982a39a14150b0977bc9fe9636eb0c4d407d46228784c3e2fe19"
+        },
+        {
+            "title": "Legacy Front End",
+            "subtitle": "Free Code Camp",
+            "description": "This certification is a 300-hour program designed to teach the fundamentals of web development. This certification focuses on building a strong foundation in HTML, CSS, Responsive Web Design, JavaScript, and jQuery.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/freecodecamp.jpg",
+            "url": "https://www.freecodecamp.org/certification/bmsrinivasrao007/legacy-front-end"
         },
         {
             "title": "Javascript (Basic)",
