@@ -12,6 +12,14 @@
     },
     "articles": [
         {
+            "title": "How AI, LLMs, and Smart Agents Are Powering the Future of Healthcare Credentialing",
+            "description": "Imagine moving to a new town and trying to find a doctor, only to discover their information is wrong, they’re no longer practicing, or they aren’t covered by your insurance. Unfortunately, this happens more often than you think, because healthcare provider data in the U.S. is often outdated or inconsistent across systems.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/llm-ai.png",
+            "articleUrl": "https://medium.com/path-to-care/how-ai-llms-and-smart-agents-are-powering-the-future-of-healthcare-credentialing-7d9fd2fa6b03",
+            "type": "technology",
+            "filterTypes": "healthcare, technology"
+        },
+        {
             "title": "From Idea to Impact: How AI Agents Can Supercharge Real-Time Healthcare Credentialing",
             "description": "In healthcare, small delays can lead to big consequences. Imagine discovering your doctor was never properly credentialed — or worse, was flagged for misconduct months ago, but the system failed to update in time.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/ai-agent-in-healthcare.jpg",
@@ -311,6 +319,20 @@
             "description": "This course introduces how AI agents can automate complex tasks, improve decision-making, and drive innovation, enabling scalable transformation across entire organizations.",
             "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/google.jpg",
             "url": "https://www.cloudskillsboost.google/public_profiles/64096165-023c-41f0-87d3-cb1cc1fc87c6/badges/15728163"
+        },
+        {
+            "title": "Machine Learning Operations (MLOps) with Vertex AI: Model Evaluation",
+            "subtitle": "Google",
+            "description": "This course focuses on model evaluation, performance metrics, deployment readiness, and ensuring robust, scalable ML pipelines on Google Cloud.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/google.jpg",
+            "url": "https://www.cloudskillsboost.google/public_profiles/64096165-023c-41f0-87d3-cb1cc1fc87c6/badges/15838250"
+        },
+        {
+            "title": "Introduction to Security in the World of AI",
+            "subtitle": "Google",
+            "description": "This course introduces key concepts to safeguard AI systems and ensure responsible, secure deployment in real-world applications.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/google.jpg",
+            "url": "https://www.cloudskillsboost.google/public_profiles/64096165-023c-41f0-87d3-cb1cc1fc87c6/badges/15817585"
         },
         {
             "title": "AWS Certified Developer - Associate",
