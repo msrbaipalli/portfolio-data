@@ -12,6 +12,14 @@
     },
     "articles": [
         {
+            "title": "Here’s How My Innovation Can Fix Healthcare Credentialing in the U.S.",
+            "description": "For the past few months, I’ve been sharing my thoughts and research on a persistent issue in healthcare: provider credentialing. If you’re new to the topic, credentialing is how health systems verify that a doctor or clinician is licensed, trained, and eligible to practice.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/patent-post.png",
+            "articleUrl": "https://medium.com/path-to-care/heres-how-my-innovation-can-fix-healthcare-credentialing-in-the-u-s-e35be4d2798f",
+            "type": "technology",
+            "filterTypes": "healthcare, technology"
+        },
+        {
             "title": "How AI, LLMs, and Smart Agents Are Powering the Future of Healthcare Credentialing",
             "description": "Imagine moving to a new town and trying to find a doctor, only to discover their information is wrong, they’re no longer practicing, or they aren’t covered by your insurance. Unfortunately, this happens more often than you think, because healthcare provider data in the U.S. is often outdated or inconsistent across systems.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/llm-ai.png",
