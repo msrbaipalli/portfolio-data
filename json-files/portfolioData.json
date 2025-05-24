@@ -52,6 +52,14 @@
             "filterTypes": "healthcare, technology"
         },
         {
+            "title": "Can AI Chatbots Really Help with Mental Health Counseling?",
+            "description": "In recent years, Artificial Intelligence (AI) has quietly entered one of the most human-centered domains: mental health counseling. From chatbots that offer emotional support to apps that monitor your mood and suggest coping strategies, AI is becoming a key player in the space once reserved exclusively for therapists, psychologists, and counselors. But is this rise of AI in mental health a genuine breakthrough or just another tech trend?",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/ai-chatbot.png",
+            "articleUrl": "https://medium.com/@msrbaipalli/can-ai-chatbots-really-help-with-mental-health-counseling-9ae3083c9059",
+            "type": "healthcare",
+            "filterTypes": "healthcare, technology"
+        },
+        {
             "title": "Why It’s So Hard to Manage Healthcare Provider Data in One Place in the USA",
             "description": "Imagine trying to put together a giant puzzle where every piece comes from a different company, a different city, and even a different rulebook. That’s what it’s like trying to manage healthcare provider data in the United States.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/04272025.jpg",
