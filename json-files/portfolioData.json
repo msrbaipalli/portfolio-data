@@ -60,6 +60,14 @@
             "filterTypes": "healthcare, technology"
         },
         {
+            "title": "JavaScript in the AI Era: Surviving and Thriving in the Future of DevelopmentJavaScript in the AI Era: Surviving and Thriving in the Future of Development",
+            "description": "As artificial intelligence reshapes the future of software development, many developers ask an important question: Where does JavaScript fit in a world increasingly driven by AI models, automation, and smart agents? Is this decades-old language still relevant, or will it fade away as newer technologies take center stage?",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/javascript_ai.png",
+            "articleUrl": "https://medium.com/@msrbaipalli/javascript-in-the-ai-era-surviving-and-thriving-in-the-future-of-development-d11876306f67",
+            "type": "programming",
+            "filterTypes": "programming, technology"
+        },
+        {
             "title": "Why It’s So Hard to Manage Healthcare Provider Data in One Place in the USA",
             "description": "Imagine trying to put together a giant puzzle where every piece comes from a different company, a different city, and even a different rulebook. That’s what it’s like trying to manage healthcare provider data in the United States.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/04272025.jpg",
