@@ -20,6 +20,14 @@
             "filterTypes": "healthcare, technology"
         },
         {
+            "title": "Verified and Trusted: A New Era of Healthcare Transparency",
+            "description": "Over the past several months, I have been writing about something that rarely makes headlines but affects every single one of us: healthcare provider credentialing. If you have followed my earlier posts, you already know what I am talking about. But if this is your first time here, let me give you a quick recap.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/05-29.png",
+            "articleUrl": "https://medium.com/path-to-care/verified-and-trusted-a-new-era-of-healthcare-transparency-8ff862133f6d",
+            "type": "healthcare",
+            "filterTypes": "healthcare, technology"
+        },
+        {
             "title": "How AI, LLMs, and Smart Agents Are Powering the Future of Healthcare Credentialing",
             "description": "Imagine moving to a new town and trying to find a doctor, only to discover their information is wrong, they’re no longer practicing, or they aren’t covered by your insurance. Unfortunately, this happens more often than you think, because healthcare provider data in the U.S. is often outdated or inconsistent across systems.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/llm-ai.png",
