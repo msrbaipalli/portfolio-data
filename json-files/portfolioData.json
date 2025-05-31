@@ -190,6 +190,13 @@
             "type": "healthcare"
         },
         {
+            "title": "Angular 20 Is Here - What’s New and Why It Matters for Developers",
+            "description": "It is official. Angular 20 is out, and it is a major release. Whether you are an experienced Angular developer or just starting out, this update brings exciting features that modernize the framework and simplify development.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/angular20.png",
+            "articleUrl": "https://medium.com/@msrbaipalli/angular-20-is-here-whats-new-and-why-it-matters-for-developers-b53abf32cf0b",
+            "type": "programming"
+        },
+        {
             "title": "Angular 19 Signals: A New Era of Reactivity",
             "description": "If you’re an Angular developer, you’ve probably heard the buzz around Signals in Angular 19. And let me tell you, this is a game-changer! Angular has always been great, but Signals bring in a whole new level of fine-grained reactivity, making state management smoother, more efficient, and way more predictable.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/5.jpg",
