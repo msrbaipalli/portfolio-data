@@ -12,6 +12,14 @@
     },
     "articles": [
         {
+            "title": "Agentic AI: The Missing Link in Fixing Healthcare Credentialing",
+            "description": "Imagine if healthcare systems could think for themselves. What if they could react to gaps in data, verify credentials in real time, and alert stakeholders when something doesn’t look right? Not just automation, but intelligent, agentic behavior. This is the promise of Agentic AI, and it’s reshaping the future of healthcare infrastructure, starting with one of its most overlooked bottlenecks: provider credentialing.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/agentic-ai.png",
+            "articleUrl": "https://medium.com/path-to-care/agentic-ai-the-missing-link-in-fixing-healthcare-credentialing-6ae5b6f94d1d",
+            "type": "technology",
+            "filterTypes": "healthcare, technology"
+        },
+        {
             "title": "Here’s How My Innovation Can Fix Healthcare Credentialing in the U.S.",
             "description": "For the past few months, I’ve been sharing my thoughts and research on a persistent issue in healthcare: provider credentialing. If you’re new to the topic, credentialing is how health systems verify that a doctor or clinician is licensed, trained, and eligible to practice.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/patent-post.png",
