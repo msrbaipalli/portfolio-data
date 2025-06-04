@@ -198,6 +198,13 @@
             "type": "healthcare"
         },
         {
+            "title": "Vibe Coding: Hype, Help, or Just Noise?",
+            "description": "Walk into any modern developer’s workspace today, and you might notice a shift: RGB lights glowing softly in the background, lo-fi beats playing through noise-canceling headphones, and minimalist setups that feel more like art studios than cubicles. This isn’t just a design trend.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/vibe-coding.png",
+            "articleUrl": "https://medium.com/@msrbaipalli/vibe-coding-hype-help-or-just-noise-8c6e4d071915",
+            "type": "programming"
+        },
+        {
             "title": "Angular 20 Is Here - What’s New and Why It Matters for Developers",
             "description": "It is official. Angular 20 is out, and it is a major release. Whether you are an experienced Angular developer or just starting out, this update brings exciting features that modernize the framework and simplify development.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/angular20.png",
