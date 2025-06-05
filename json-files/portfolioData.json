@@ -431,6 +431,13 @@
             "url": "https://www.linkedin.com/learning/certificates/80f4b6777b36607b2eed0a62ba52ea0ee43fc7226cefb936cae13e11f75a5634"
         },
         {
+            "title": "Introduction to Artificial Intelligence",
+            "subtitle": "Linkedin",
+            "description": "This course is designed for project managers, product managers, directors, executives, and students starting a career in AI. First, learn what it means for a system to display “intelligence.” Then, explore the difference between classic predictive AI and newer generative AI.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/66a937859dd448cc1497cfd3afd28da357bb3a09e192dc596d644ab87c9d5839"
+        },
+        {
             "title": "Introduction to MLSecOps",
             "subtitle": "LinkedIn",
             "description": "This course explores the fusion of machine learning and security operations, emphasizing secure ML lifecycle management, threat mitigation, and collaboration across data science, DevOps, and security teams.",
