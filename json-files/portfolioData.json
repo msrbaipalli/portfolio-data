@@ -12,6 +12,14 @@
     },
     "articles": [
         {
+            "title": "How LLMs Trained on EMRs Are Reshaping Healthcare",
+            "description": "Artificial Intelligence is no longer just a buzzword in healthcare. With the rise of Large Language Models (LLMs) like GPT-4o, Claude, and domain-tuned models, we’re entering a new era where AI can deeply understand and act on complex, unstructured healthcare data.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/llms-06-08.png",
+            "articleUrl": "https://medium.com/path-to-care/how-llms-trained-on-emrs-are-reshaping-healthcare-8f8be9fa1f4c",
+            "type": "technology",
+            "filterTypes": "healthcare, technology"
+        },
+        {
             "title": "Agentic AI: The Missing Link in Fixing Healthcare Credentialing",
             "description": "Imagine if healthcare systems could think for themselves. What if they could react to gaps in data, verify credentials in real time, and alert stakeholders when something doesn’t look right? Not just automation, but intelligent, agentic behavior. This is the promise of Agentic AI, and it’s reshaping the future of healthcare infrastructure, starting with one of its most overlooked bottlenecks: provider credentialing.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/agentic-ai.png",
