@@ -12,6 +12,14 @@
     },
     "articles": [
         {
+            "title": "How Tech Is Reshaping the U.S. Healthcare Industry in 2025",
+            "description": "We often hear that healthcare is “booming,” but the real engine behind this growth isn’t just aging demographics or rising demand — it’s technology. From cloud infrastructure to AI diagnostics, the U.S. healthcare sector is undergoing a massive digital transformation. What was once a slow-moving, paper-heavy system is now becoming smarter, faster, and more connected.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/06-10.png",
+            "articleUrl": "https://medium.com/path-to-care/how-tech-is-reshaping-the-u-s-healthcare-industry-in-2025-d89cd7cf97b2",
+            "type": "technology",
+            "filterTypes": "healthcare, technology"
+        },
+        {
             "title": "How LLMs Trained on EMRs Are Reshaping Healthcare",
             "description": "Artificial Intelligence is no longer just a buzzword in healthcare. With the rise of Large Language Models (LLMs) like GPT-4o, Claude, and domain-tuned models, we’re entering a new era where AI can deeply understand and act on complex, unstructured healthcare data.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/llms-06-08.png",
