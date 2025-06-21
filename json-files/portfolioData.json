@@ -12,6 +12,22 @@
     },
     "articles": [
         {
+            "title": "Here’s How My Innovation Can Fix Healthcare Credentialing in the U.S.",
+            "description": "For the past few months, I’ve been sharing my thoughts and research on a persistent issue in healthcare: provider credentialing. If you’re new to the topic, credentialing is how health systems verify that a doctor or clinician is licensed, trained, and eligible to practice.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/patent-post.png",
+            "articleUrl": "https://medium.com/path-to-care/heres-how-my-innovation-can-fix-healthcare-credentialing-in-the-u-s-e35be4d2798f",
+            "type": "technology",
+            "filterTypes": "healthcare, technology"
+        },
+        {
+            "title": "The Top 10 Booming Technologies Reshaping Healthcare in 2025",
+            "description": "Healthcare is undergoing a rapid transformation. What was once seen as futuristic is now becoming a daily reality in hospitals, clinics, and even homes. Thanks to a surge in innovation, the healthcare sector is evolving to become more intelligent, efficient, and patient-centered.Healthcare is undergoing a rapid transformation. What was once seen as futuristic is now becoming a daily reality in hospitals, clinics, and even homes. Thanks to a surge in innovation, the healthcare sector is evolving to become more intelligent, efficient, and patient-centered.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/top10.png",
+            "articleUrl": "https://medium.com/path-to-care/the-top-10-booming-technologies-reshaping-healthcare-in-2025-04a3b395c51c",
+            "type": "technology",
+            "filterTypes": "healthcare, technology"
+        },
+        {
             "title": "How Tech Is Reshaping the U.S. Healthcare Industry in 2025",
             "description": "We often hear that healthcare is “booming,” but the real engine behind this growth isn’t just aging demographics or rising demand — it’s technology. From cloud infrastructure to AI diagnostics, the U.S. healthcare sector is undergoing a massive digital transformation. What was once a slow-moving, paper-heavy system is now becoming smarter, faster, and more connected.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/06-10.png",
@@ -32,14 +48,6 @@
             "description": "Imagine if healthcare systems could think for themselves. What if they could react to gaps in data, verify credentials in real time, and alert stakeholders when something doesn’t look right? Not just automation, but intelligent, agentic behavior. This is the promise of Agentic AI, and it’s reshaping the future of healthcare infrastructure, starting with one of its most overlooked bottlenecks: provider credentialing.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/agentic-ai.png",
             "articleUrl": "https://medium.com/path-to-care/agentic-ai-the-missing-link-in-fixing-healthcare-credentialing-6ae5b6f94d1d",
-            "type": "technology",
-            "filterTypes": "healthcare, technology"
-        },
-        {
-            "title": "Here’s How My Innovation Can Fix Healthcare Credentialing in the U.S.",
-            "description": "For the past few months, I’ve been sharing my thoughts and research on a persistent issue in healthcare: provider credentialing. If you’re new to the topic, credentialing is how health systems verify that a doctor or clinician is licensed, trained, and eligible to practice.",
-            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/patent-post.png",
-            "articleUrl": "https://medium.com/path-to-care/heres-how-my-innovation-can-fix-healthcare-credentialing-in-the-u-s-e35be4d2798f",
             "type": "technology",
             "filterTypes": "healthcare, technology"
         },
