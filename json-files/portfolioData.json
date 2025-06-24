@@ -100,6 +100,14 @@
             "filterTypes": "healthcare, technology"
         },
         {
+            "title": "Angular 20 + GraphQL + Spring Boot: A Dream Stack for Building Scalable AI Products",
+            "description": "We are living in a time where AI is reshaping industries, from healthcare to finance, education to logistics. But building a powerful AI product is not just about training models. You need the right tech stack to bring intelligence to users in real time, securely, and at scale. That is where the trio of Angular 20, GraphQL, and Spring Boot truly shines.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/06-23.png",
+            "articleUrl": "https://medium.com/@msrbaipalli/angular-20-graphql-spring-boot-a-dream-stack-for-building-scalable-ai-products-7d51a8f4cac6",
+            "type": "programming",
+            "filterTypes": "programming, technology"
+        },
+        {
             "title": "JavaScript in the AI Era: Surviving and Thriving in the Future of Development",
             "description": "As artificial intelligence reshapes the future of software development, many developers ask an important question: Where does JavaScript fit in a world increasingly driven by AI models, automation, and smart agents? Is this decades-old language still relevant, or will it fade away as newer technologies take center stage?",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/javascript_ai.png",
