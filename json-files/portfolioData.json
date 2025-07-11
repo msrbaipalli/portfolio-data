@@ -479,6 +479,13 @@
             "url": "https://www.linkedin.com/learning/certificates/80f4b6777b36607b2eed0a62ba52ea0ee43fc7226cefb936cae13e11f75a5634"
         },
         {
+            "title": "Generative AI: Working with Large Language Models",
+            "subtitle": "Linkedin",
+            "description": "This course introduces the fundamentals of large language models, exploring architecture, applications, training methods, and ethical considerations in building generative AI systems.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/7d09777eed69ec2b4422800acaa171752e56b8162f2e2ddd5b8e8e4f63b3033c"
+        },
+        {
             "title": "Introduction to Artificial Intelligence",
             "subtitle": "Linkedin",
             "description": "This course is designed for project managers, product managers, directors, executives, and students starting a career in AI. First, learn what it means for a system to display “intelligence.” Then, explore the difference between classic predictive AI and newer generative AI.",
