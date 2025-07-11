@@ -12,6 +12,14 @@
     },
     "articles": [
         {
+            "title": "Transforming Provider Credentialing with AI and Blockchain: My Patent Journey",
+            "description": "One of the biggest challenges in U.S. healthcare today lies in how we verify and manage healthcare provider information. Whether it’s patients searching for in-network doctors, insurance companies trying to process claims accurately, or providers going through tedious credentialing processes, the current system is fragmented, outdated, and inefficient.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/patent-article.jpg",
+            "articleUrl": "https://medium.com/path-to-care/transforming-provider-credentialing-with-ai-and-blockchain-my-patent-journey-e54066a3cb70",
+            "type": "healthcare",
+            "filterTypes": "healthcare, technology"
+        },
+        {
             "title": "Here’s How My Innovation Can Fix Healthcare Credentialing in the U.S.",
             "description": "For the past few months, I’ve been sharing my thoughts and research on a persistent issue in healthcare: provider credentialing. If you’re new to the topic, credentialing is how health systems verify that a doctor or clinician is licensed, trained, and eligible to practice.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/patent-post.png",
@@ -92,14 +100,6 @@
             "filterTypes": "healthcare, technology"
         },
         {
-            "title": "Transforming Provider Credentialing with AI and Blockchain: My Patent Journey",
-            "description": "One of the biggest challenges in U.S. healthcare today lies in how we verify and manage healthcare provider information. Whether it’s patients searching for in-network doctors, insurance companies trying to process claims accurately, or providers going through tedious credentialing processes, the current system is fragmented, outdated, and inefficient.",
-            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/patent-article.jpg",
-            "articleUrl": "https://medium.com/path-to-care/transforming-provider-credentialing-with-ai-and-blockchain-my-patent-journey-e54066a3cb70",
-            "type": "healthcare",
-            "filterTypes": "healthcare, technology"
-        },
-        {
             "title": "Can AI Chatbots Really Help with Mental Health Counseling?",
             "description": "In recent years, Artificial Intelligence (AI) has quietly entered one of the most human-centered domains: mental health counseling. From chatbots that offer emotional support to apps that monitor your mood and suggest coping strategies, AI is becoming a key player in the space once reserved exclusively for therapists, psychologists, and counselors. But is this rise of AI in mental health a genuine breakthrough or just another tech trend?",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/ai-chatbot.png",
@@ -145,6 +145,14 @@
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/aiagent0423.jpg",
             "articleUrl": "https://medium.com/@msrbaipalli/what-is-an-ai-agent-and-how-is-it-used-ec5bd6a59fd0",
             "type": "healthcare",
+            "filterTypes": "technology"
+        },
+        {
+            "title": "Meet Grok AI: Elon Musk’s Answer to the AI Revolution",
+            "description": "While ChatGPT, Gemini, and Claude continue to dominate the AI landscape, a fresh contender has emerged, offering more than just conversation. It’s intelligent, current, daring, and refreshingly unfiltered.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/grok-ai.jpg",
+            "articleUrl": "https://medium.com/@msrbaipalli/meet-grok-ai-elon-musks-answer-to-the-ai-revolution-baba552bf3fc",
+            "type": "technology",
             "filterTypes": "technology"
         },
         {
