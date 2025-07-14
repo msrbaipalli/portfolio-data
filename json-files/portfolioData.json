@@ -156,6 +156,14 @@
             "filterTypes": "technology"
         },
         {
+            "title": "Will AI Replace UI Developers? The Future of Frontend in an AI-First World",
+            "description": "When artificial intelligence burst into the mainstream, many believed it would replace manual, repetitive jobs. But as generative AI started writing code, designing UIs, and generating entire frontend layouts in seconds, a new, more controversial question emerged:",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/07-13.png",
+            "articleUrl": "https://medium.com/@msrbaipalli/will-ai-replace-ui-developers-the-future-of-frontend-in-an-ai-first-world-f484d3fcddef",
+            "type": "technology",
+            "filterTypes": "technology"
+        },
+        {
             "title": "The Role of AI in Modern Healthcare",
             "description": "Artificial Intelligence, or AI, isn’t just a fancy tech term anymore. It’s actually making a big difference in the real world, especially in healthcare. From helping doctors find problems faster to making patient care more personal, AI is changing the way we experience healthcare. In this article, I will explain how AI is used in healthcare, using simple and easy-to-understand examples.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/aihealth.jpg",
