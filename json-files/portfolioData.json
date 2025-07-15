@@ -459,6 +459,13 @@
             "url": "https://www.linkedin.com/learning/certificates/1e7a1f7a0ea7e0532e0c66e45a26eac74ab3e1a216b5c1ba5c736946d19670e7"
         },
         {
+            "title": "Python Essential Training",
+            "subtitle": "Linkedin",
+            "description": "This certification offers a comprehensive introduction to Python, covering core concepts like data types, control flow, functions, and file handling, ideal for beginners and intermediates.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/abd65b5b3363f5a40dba58f74d337aaf36bfa4a577cebe3c57b2b8a5e19c5725"
+        },
+        {
             "title": "Machine Learning with Python: Foundations",
             "subtitle": "Linkedin",
             "description": "This course introduces core ML concepts using Python, covering data preprocessing, supervised and unsupervised learning, and model evaluation in a beginner-friendly manner.",
