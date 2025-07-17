@@ -936,7 +936,7 @@
     ],
     "configs": {
         "articleConfigs": {
-            "chipsOrder": "Show All, Healthcare, Programming, Technology, General"
+            "chipsOrder": "Show All, healthcare, programming, technology, general"
         }
     }
 }
