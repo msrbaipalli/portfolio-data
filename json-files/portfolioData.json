@@ -144,7 +144,7 @@
             "description": "We hear about Artificial Intelligence (AI) everywhere these days — from Siri helping us send texts, to chatbots answering questions on websites, to cars that practically drive themselves. But behind many of these smart systems is something called an AI Agent. Sounds a little sci-fi, right? Don’t worry — let’s break it down in a way that makes sense.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/aiagent0423.jpg",
             "articleUrl": "https://medium.com/@msrbaipalli/what-is-an-ai-agent-and-how-is-it-used-ec5bd6a59fd0",
-            "type": "healthcare",
+            "type": "technology",
             "filterTypes": "technology"
         },
         {
@@ -176,7 +176,7 @@
             "description": "Angular is always improving, and one of the newer features that developers are starting to notice is selectorless components. If you’re building large, reusable UIs and want more control over your HTML structure, this feature is worth checking out.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/angular-selectorless.jpg",
             "articleUrl": "https://medium.com/@msrbaipalli/angulars-selectorless-components-a-clean-way-to-reuse-logic-173c203efff3",
-            "type": "healthcare",
+            "type": "programming",
             "filterTypes": "programming"
         },
         {
