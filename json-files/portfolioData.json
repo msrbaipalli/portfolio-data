@@ -140,6 +140,14 @@
             "filterTypes": "healthcare, technology"
         },
         {
+            "title": "How Does AI Actually Work? A Simple Guide With Real-Life Examples",
+            "description": "If you’ve ever asked Siri for a weather update, binged a Netflix show it suggested, or chatted with a virtual assistant, you’ve already had a brush with Artificial Intelligence. These days, AI is everywhere as businesses race to integrate it into their products, and it’s a hot topic in everyday conversations.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/ai_general.png",
+            "articleUrl": "https://medium.com/@msrbaipalli/how-does-ai-actually-work-a-simple-guide-with-real-life-examples-4f8432ea8613",
+            "type": "general",
+            "filterTypes": "technology, general"
+        },
+        {
             "title": "What is an AI Agent and How Is It Used?",
             "description": "We hear about Artificial Intelligence (AI) everywhere these days — from Siri helping us send texts, to chatbots answering questions on websites, to cars that practically drive themselves. But behind many of these smart systems is something called an AI Agent. Sounds a little sci-fi, right? Don’t worry — let’s break it down in a way that makes sense.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/aiagent0423.jpg",
