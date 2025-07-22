@@ -12,6 +12,14 @@
     },
     "articles": [
         {
+            "title": "AI-Driven Credentialing Innovation Promises 60% Faster Onboarding for U.S. Healthcare",
+            "description": "Healthcare credentialing in the U.S. is on the verge of a much-needed upgrade. A patent-pending innovation currently under research explores how AI and blockchain technology can modernize verification processes, reduce onboarding delays, and strengthen trust across the U.S. healthcare ecosystem.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/featured.png",
+            "articleUrl": "https://aijourn.com/ai-driven-credentialing-innovation-promises-60-faster-onboarding-for-u-s-healthcare/",
+            "type": "healthcare",
+            "filterTypes": "healthcare, technology"
+        },
+        {
             "title": "Transforming Provider Credentialing with AI and Blockchain: My Patent Journey",
             "description": "One of the biggest challenges in U.S. healthcare today lies in how we verify and manage healthcare provider information. Whether it’s patients searching for in-network doctors, insurance companies trying to process claims accurately, or providers going through tedious credentialing processes, the current system is fragmented, outdated, and inefficient.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/patent-article.jpg",
