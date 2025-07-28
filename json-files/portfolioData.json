@@ -52,6 +52,14 @@
             "filterTypes": "healthcare, technology"
         },
         {
+            "title": "Progress Update: My Journey Toward Fixing U.S. Healthcare Credentialing",
+            "description": "Over the past several months, I’ve been deeply focused on solving a problem that hits at the very heart of the U.S. healthcare system, provider credentialing. It’s the behind-the-scenes process that determines whether a doctor can practice at a hospital, whether a patient’s insurance covers a provider, and ultimately, how fast care can begin. The problem? It’s broken. Outdated. Painfully manual. And worst of all, it delays care and increases administrative costs.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/progress.png",
+            "articleUrl": "https://medium.com/path-to-care/progress-update-my-journey-toward-fixing-u-s-healthcare-credentialing-692dfd7e2ce3",
+            "type": "technology",
+            "filterTypes": "healthcare, technology"
+        },
+        {
             "title": "How Tech Is Reshaping the U.S. Healthcare Industry in 2025",
             "description": "We often hear that healthcare is “booming,” but the real engine behind this growth isn’t just aging demographics or rising demand — it’s technology. From cloud infrastructure to AI diagnostics, the U.S. healthcare sector is undergoing a massive digital transformation. What was once a slow-moving, paper-heavy system is now becoming smarter, faster, and more connected.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/06-10.png",
