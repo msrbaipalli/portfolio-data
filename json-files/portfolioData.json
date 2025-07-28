@@ -540,6 +540,41 @@
             "url": "https://www.linkedin.com/learning/certificates/66a937859dd448cc1497cfd3afd28da357bb3a09e192dc596d644ab87c9d5839"
         },
         {
+            "title": "The AI-Driven Software Developer: Optimize, Innovate, Transform",
+            "subtitle": "Linkedin",
+            "description": "This course is designed to learn to harness AI tools to optimize coding, enhance productivity, and drive innovation. This course empowers software developers to integrate AI into workflows, transforming how modern software is built.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/51e57a9d2cc6cbda344cae3d21b9418ea28fb2cb8442e0f1cf95201f143bd705"
+        },
+        {
+            "title": "Agentic AI Architecture Foundations: Designing Autonomous AI Systems",
+            "subtitle": "Linkedin",
+            "description": "This course is designed to explore core principles of agentic AI design. Learn to build autonomous systems with decision-making, planning, and interaction capabilities, laying the foundation for next-generation intelligent and self-directed AI architectures.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/814ad98c9ee91dc8f34c8c5ec55f05cf15b2a9b2299da743c78ac3847855662f"
+        },
+        {
+            "title": "GenAI and Predictive AI Architecture Foundations",
+            "subtitle": "Linkedin",
+            "description": "This course is designed to learn foundational AI architecture: understand core components and distinctions between generative (GenAI) and predictive systems, covering data pipelines, training vs inference modes, monitoring modules, and scalable real‑world design.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/ce6a019a58e93943d48521d0327efcc0597d1251f68a5da03d339b7b93720492"
+        },
+        {
+            "title": "AI Product Development: Secure by Design",
+            "subtitle": "Linkedin",
+            "description": "This course explores the integrattion of security into every stage—from governance and risk frameworks, adversarial defense, CI/CD pipelines and supply‑chain validation to monitoring and case‑based playbooks",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/04bd066c37c52b6abcfcf0d584a1da9d59a1cd04c1fa428a2db9b08a7e5da996"
+        },
+        {
+            "title": "Fundamentals of AI Engineering: Principles and Practical Applications",
+            "subtitle": "Linkedin",
+            "description": "This course explores transform software engineering expertise into full-stack AI system development—covering LLM pipelines, embeddings, vector databases, hybrid retrieval, observability, CI/CD, and production‑grade tooling with GitHub Codespaces",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/b8d62da46d38f8d6b07271a1ade6a3f1e23bf794f1000025ffe9c34d7660a10b"
+        },
+        {
             "title": "Introduction to MLSecOps",
             "subtitle": "LinkedIn",
             "description": "This course explores the fusion of machine learning and security operations, emphasizing secure ML lifecycle management, threat mitigation, and collaboration across data science, DevOps, and security teams.",
