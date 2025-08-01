@@ -124,6 +124,14 @@
             "filterTypes": "healthcare, technology"
         },
         {
+            "title": "Python and AI: The Perfect Match for Innovation",
+            "description": "Walk into any AI lab, open a machine learning GitHub repo, or peek inside the notebooks of a data scientist, and odds are you’ll find Python at the heart of it all. But have you ever wondered why Python is so deeply entwined with the world of artificial intelligence?",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/jul-31.png",
+            "articleUrl": "https://medium.com/@msrbaipalli/python-and-ai-the-perfect-match-for-innovation-4e574276a50d",
+            "type": "programming",
+            "filterTypes": "programming, technology"
+        },
+        {
             "title": "Angular 20 + GraphQL + Spring Boot: A Dream Stack for Building Scalable AI Products",
             "description": "We are living in a time where AI is reshaping industries, from healthcare to finance, education to logistics. But building a powerful AI product is not just about training models. You need the right tech stack to bring intelligence to users in real time, securely, and at scale. That is where the trio of Angular 20, GraphQL, and Spring Boot truly shines.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/06-23.png",
