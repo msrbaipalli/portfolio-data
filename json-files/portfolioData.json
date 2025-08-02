@@ -548,6 +548,20 @@
             "url": "https://www.linkedin.com/learning/certificates/66a937859dd448cc1497cfd3afd28da357bb3a09e192dc596d644ab87c9d5839"
         },
         {
+            "title": "AI for Software Testers",
+            "subtitle": "Linkedin",
+            "description": "This course is designed to teach how to integrate AI tools into software testing processes. Discover techniques to enhance test efficiency, automation, and analysis across the software testing life cycle using modern AI solutions.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/a09b4038fb7ed0f23def9e1acc3d06bab9c4f06a4412a8c9facae233e6212685"
+        },
+        {
+            "title": "Introduction to Agentic AI: Getting Started with AutoGen Studio",
+            "subtitle": "Linkedin",
+            "description": "This course is designed to explore the fundamentals of agentic AI using AutoGen Studio. Learn how autonomous agents work, build simple AI workflows, and understand key concepts behind next-generation AI-driven applications and automation.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/72ad1a55a93b01aa68eed96afc34cf142e705719212af11246db16a1b28151bd"
+        },
+        {
             "title": "The AI-Driven Software Developer: Optimize, Innovate, Transform",
             "subtitle": "Linkedin",
             "description": "This course is designed to learn to harness AI tools to optimize coding, enhance productivity, and drive innovation. This course empowers software developers to integrate AI into workflows, transforming how modern software is built.",
