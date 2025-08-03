@@ -124,6 +124,14 @@
             "filterTypes": "healthcare, technology"
         },
         {
+            "title": "Why AI Is No Longer a Tool. It’s My Engineering Mindset.",
+            "description": "Walk into any AI lab, open a machine learning GitHub repo, or peek inside the notebooks of a data scientist, and odds are you’ll find Python at the heart of it all. But have you ever wondered why Python is so deeply entwined with the world of artificial intelligence?",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/aug-02.png",
+            "articleUrl": "https://medium.com/@msrbaipalli/why-ai-is-no-longer-a-tool-its-my-engineering-mindset-4c380796e9c1",
+            "type": "programming",
+            "filterTypes": "programming, technology"
+        },
+        {
             "title": "Python and AI: The Perfect Match for Innovation",
             "description": "Walk into any AI lab, open a machine learning GitHub repo, or peek inside the notebooks of a data scientist, and odds are you’ll find Python at the heart of it all. But have you ever wondered why Python is so deeply entwined with the world of artificial intelligence?",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/jul-31.png",
