@@ -125,7 +125,7 @@
         },
         {
             "title": "Why AI Is No Longer a Tool. It’s My Engineering Mindset.",
-            "description": "Walk into any AI lab, open a machine learning GitHub repo, or peek inside the notebooks of a data scientist, and odds are you’ll find Python at the heart of it all. But have you ever wondered why Python is so deeply entwined with the world of artificial intelligence?",
+            "description": "Working in software engineering for years, I have always believed in adapting to change. But AI has not just been another trend for me. It has become central to how I approach engineering challenges.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/aug-02.png",
             "articleUrl": "https://medium.com/@msrbaipalli/why-ai-is-no-longer-a-tool-its-my-engineering-mindset-4c380796e9c1",
             "type": "programming",
