@@ -124,6 +124,14 @@
             "filterTypes": "healthcare, technology"
         },
         {
+            "title": "GitHub Copilot: The First AI That Truly Thinks Like an Engineer",
+            "description": "Last time, I wrote about how AI stopped being just another tool and became something more. That piece was titled “Why AI Is No Longer a Tool. It’s My Engineering Mindset.” I didn’t write it to ride the AI trend. I wrote it because it reflected what was happening to my thinking. AI had started shaping the way I approached problems, structured systems, and made technical decisions.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/08-04.png",
+            "articleUrl": "https://medium.com/@msrbaipalli/github-copilot-the-first-ai-that-truly-thinks-like-an-engineer-b8eeda1cea09",
+            "type": "programming",
+            "filterTypes": "programming, technology"
+        },
+        {
             "title": "Why AI Is No Longer a Tool. It’s My Engineering Mindset.",
             "description": "Working in software engineering for years, I have always believed in adapting to change. But AI has not just been another trend for me. It has become central to how I approach engineering challenges.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/aug-02.png",
