@@ -124,6 +124,14 @@
             "filterTypes": "healthcare, technology"
         },
         {
+            "title": "AI and Developers: A Boost to Productivity or a Drain on Thinking?",
+            "description": "If you’ve been anywhere near the dev world lately, you already know. AI is not knocking. It has kicked the door down. From GitHub Copilot finishing our code like an autocomplete on steroids to Cursor suggesting entire functions before we even think of them, artificial intelligence is becoming the coding partner we never knew we needed.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/08-06.png",
+            "articleUrl": "https://medium.com/@msrbaipalli/ai-and-developers-a-boost-to-productivity-or-a-drain-on-thinking-41cad3e35443",
+            "type": "programming",
+            "filterTypes": "programming, technology"
+        },
+        {
             "title": "GitHub Copilot: The First AI That Truly Thinks Like an Engineer",
             "description": "Last time, I wrote about how AI stopped being just another tool and became something more. That piece was titled “Why AI Is No Longer a Tool. It’s My Engineering Mindset.” I didn’t write it to ride the AI trend. I wrote it because it reflected what was happening to my thinking. AI had started shaping the way I approached problems, structured systems, and made technical decisions.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/08-04.png",
