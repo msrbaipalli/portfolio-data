@@ -124,6 +124,14 @@
             "filterTypes": "healthcare, technology"
         },
         {
+            "title": "AI in Product Architecture: How I’m Designing Products That Learn and Adapt",
+            "description": "When you have been in software long enough, you start noticing patterns. Not in the code, in the way products are built. It used to be simple. You planned an architecture, defined the rules, deployed it, and called it a day. The system did exactly what you told it to do and nothing more.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/08-11.png",
+            "articleUrl": "https://medium.com/@msrbaipalli/ai-in-product-architecture-how-im-designing-products-that-learn-and-adapt-66a23a66eeab",
+            "type": "technology",
+            "filterTypes": "healthcare, technology"
+        },
+        {
             "title": "AI and Developers: A Boost to Productivity or a Drain on Thinking?",
             "description": "If you’ve been anywhere near the dev world lately, you already know. AI is not knocking. It has kicked the door down. From GitHub Copilot finishing our code like an autocomplete on steroids to Cursor suggesting entire functions before we even think of them, artificial intelligence is becoming the coding partner we never knew we needed.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/08-06.png",
