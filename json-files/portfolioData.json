@@ -44,10 +44,10 @@
             "filterTypes": "healthcare, technology"
         },
         {
-            "title": "The Top 10 Booming Technologies Reshaping Healthcare in 2025",
-            "description": "Healthcare is undergoing a rapid transformation. What was once seen as futuristic is now becoming a daily reality in hospitals, clinics, and even homes. Thanks to a surge in innovation, the healthcare sector is evolving to become more intelligent, efficient, and patient-centered.Healthcare is undergoing a rapid transformation. What was once seen as futuristic is now becoming a daily reality in hospitals, clinics, and even homes. Thanks to a surge in innovation, the healthcare sector is evolving to become more intelligent, efficient, and patient-centered.",
-            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/top10.png",
-            "articleUrl": "https://medium.com/path-to-care/the-top-10-booming-technologies-reshaping-healthcare-in-2025-04a3b395c51c",
+            "title": "AI in Product Architecture: How I’m Designing Products That Learn and Adapt",
+            "description": "When you have been in software long enough, you start noticing patterns. Not in the code, in the way products are built. It used to be simple. You planned an architecture, defined the rules, deployed it, and called it a day. The system did exactly what you told it to do and nothing more.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/08-11.png",
+            "articleUrl": "https://medium.com/@msrbaipalli/ai-in-product-architecture-how-im-designing-products-that-learn-and-adapt-66a23a66eeab",
             "type": "technology",
             "filterTypes": "healthcare, technology"
         },
@@ -56,6 +56,14 @@
             "description": "Over the past several months, I’ve been deeply focused on solving a problem that hits at the very heart of the U.S. healthcare system, provider credentialing. It’s the behind-the-scenes process that determines whether a doctor can practice at a hospital, whether a patient’s insurance covers a provider, and ultimately, how fast care can begin. The problem? It’s broken. Outdated. Painfully manual. And worst of all, it delays care and increases administrative costs.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/progress.png",
             "articleUrl": "https://medium.com/path-to-care/progress-update-my-journey-toward-fixing-u-s-healthcare-credentialing-692dfd7e2ce3",
+            "type": "technology",
+            "filterTypes": "healthcare, technology"
+        },
+        {
+            "title": "The Top 10 Booming Technologies Reshaping Healthcare in 2025",
+            "description": "Healthcare is undergoing a rapid transformation. What was once seen as futuristic is now becoming a daily reality in hospitals, clinics, and even homes. Thanks to a surge in innovation, the healthcare sector is evolving to become more intelligent, efficient, and patient-centered.Healthcare is undergoing a rapid transformation. What was once seen as futuristic is now becoming a daily reality in hospitals, clinics, and even homes. Thanks to a surge in innovation, the healthcare sector is evolving to become more intelligent, efficient, and patient-centered.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/top10.png",
+            "articleUrl": "https://medium.com/path-to-care/the-top-10-booming-technologies-reshaping-healthcare-in-2025-04a3b395c51c",
             "type": "technology",
             "filterTypes": "healthcare, technology"
         },
@@ -121,14 +129,6 @@
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/ai-chatbot.png",
             "articleUrl": "https://medium.com/@msrbaipalli/can-ai-chatbots-really-help-with-mental-health-counseling-9ae3083c9059",
             "type": "healthcare",
-            "filterTypes": "healthcare, technology"
-        },
-        {
-            "title": "AI in Product Architecture: How I’m Designing Products That Learn and Adapt",
-            "description": "When you have been in software long enough, you start noticing patterns. Not in the code, in the way products are built. It used to be simple. You planned an architecture, defined the rules, deployed it, and called it a day. The system did exactly what you told it to do and nothing more.",
-            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/08-11.png",
-            "articleUrl": "https://medium.com/@msrbaipalli/ai-in-product-architecture-how-im-designing-products-that-learn-and-adapt-66a23a66eeab",
-            "type": "technology",
             "filterTypes": "healthcare, technology"
         },
         {
