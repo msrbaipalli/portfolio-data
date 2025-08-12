@@ -580,6 +580,13 @@
             "url": "https://www.linkedin.com/learning/certificates/66a937859dd448cc1497cfd3afd28da357bb3a09e192dc596d644ab87c9d5839"
         },
         {
+            "title": "Integrating AI into the Product Architecture",
+            "subtitle": "Linkedin",
+            "description": "This course is designed to teach to seamlessly integrate AI into product architecture, enhancing functionality, scalability, and user experience through practical strategies, design principles, and real-world case studies for building intelligent, future-ready products.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/de516182041b3211264f98ae5f52f5e6f449692f17c879c3db6fceb92fc27fe2"
+        },
+        {
             "title": "AI for Software Testers",
             "subtitle": "Linkedin",
             "description": "This course is designed to teach how to integrate AI tools into software testing processes. Discover techniques to enhance test efficiency, automation, and analysis across the software testing life cycle using modern AI solutions.",
