@@ -60,6 +60,14 @@
             "filterTypes": "healthcare, technology"
         },
         {
+            "title": "How to Set Up an LLM with an MCP Server (Without Losing Your Sanity)",
+            "description": "If you have been experimenting with large language models (LLMs), you may have run into that moment where you think, “This is brilliant, but why does it still make things up when I ask about real data?”",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/08-16.png",
+            "articleUrl": "https://medium.com/@msrbaipalli/how-to-set-up-an-llm-with-an-mcp-server-without-losing-your-sanity-31470a342e03",
+            "type": "technology",
+            "filterTypes": "programming, technology"
+        },
+        {
             "title": "The Top 10 Booming Technologies Reshaping Healthcare in 2025",
             "description": "Healthcare is undergoing a rapid transformation. What was once seen as futuristic is now becoming a daily reality in hospitals, clinics, and even homes. Thanks to a surge in innovation, the healthcare sector is evolving to become more intelligent, efficient, and patient-centered.Healthcare is undergoing a rapid transformation. What was once seen as futuristic is now becoming a daily reality in hospitals, clinics, and even homes. Thanks to a surge in innovation, the healthcare sector is evolving to become more intelligent, efficient, and patient-centered.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/top10.png",
