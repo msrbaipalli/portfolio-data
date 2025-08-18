@@ -60,6 +60,14 @@
             "filterTypes": "healthcare, technology"
         },
         {
+            "title": "Extending MCP to My Innovation Work in Healthcare",
+            "description": "In my earlier post, I talked about how MCP servers give LLMs real-world powers by letting them interact with tools and APIs instead of just making things up. Now I want to take it a step further and share how I am experimenting with MCP in my own innovation work. My project focuses on building a system for real-time healthcare provider verification and credentialing using AI and blockchain.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/08-17.png",
+            "articleUrl": "https://medium.com/path-to-care/extending-mcp-to-my-innovation-work-in-healthcare-1e095d7d50d8",
+            "type": "technology",
+            "filterTypes": "healthcare, programming, technology"
+        },
+        {
             "title": "How to Set Up an LLM with an MCP Server (Without Losing Your Sanity)",
             "description": "If you have been experimenting with large language models (LLMs), you may have run into that moment where you think, “This is brilliant, but why does it still make things up when I ask about real data?”",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/08-16.png",
