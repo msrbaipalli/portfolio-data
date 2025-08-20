@@ -603,6 +603,20 @@
             "url": "https://www.linkedin.com/learning/certificates/de516182041b3211264f98ae5f52f5e6f449692f17c879c3db6fceb92fc27fe2"
         },
         {
+            "title": "Designing Agentic AI Products (No Code Required)",
+            "subtitle": "Linkedin",
+            "description": "This course is designed to teach how to design agentic AI products without coding. Explore AI fundamentals, product strategy, and practical frameworks to build intelligent, autonomous solutions that enhance user experience, efficiency, and innovation.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/e9c975f7e61fc1e837aa114dce179d8dd2c358af7ab90ed5dc20ab555e6dcbf7"
+        },
+        {
+            "title": "Unboxing AI: Build a Remote MCP Server from Zero to Deployed with OAuth",
+            "subtitle": "Linkedin",
+            "description": "This course is designed to teach how to build a remote MCP server from scratch to deployment with OAuth integration. Learn core concepts, setup, security, and best practices to confidently deliver production-ready AI-driven infrastructure.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/c65b146bca69a2dcf3f86145093315d9edeb9d605b46a990c78e8f612cb1acff"
+        },
+        {
             "title": "AI for Software Testers",
             "subtitle": "Linkedin",
             "description": "This course is designed to teach how to integrate AI tools into software testing processes. Discover techniques to enhance test efficiency, automation, and analysis across the software testing life cycle using modern AI solutions.",
