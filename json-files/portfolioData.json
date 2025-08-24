@@ -60,6 +60,14 @@
             "filterTypes": "healthcare, technology"
         },
         {
+            "title": "From MCP to AI Agents: Taking My Innovation to the Next Level",
+            "description": "In my last post, I shared how MCP servers bridge the gap between LLMs and real-world tools. With MCP, I could simulate workflows for healthcare provider verification, test compliance rules, and even log credentialing updates into a blockchain ledger.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/08-24.png",
+            "articleUrl": "https://medium.com/path-to-care/from-mcp-to-ai-agents-taking-my-innovation-to-the-next-level-38323f4f2116",
+            "type": "technology",
+            "filterTypes": "healthcare, programming, technology"
+        },
+        {
             "title": "Extending MCP to My Innovation Work in Healthcare",
             "description": "In my earlier post, I talked about how MCP servers give LLMs real-world powers by letting them interact with tools and APIs instead of just making things up. Now I want to take it a step further and share how I am experimenting with MCP in my own innovation work. My project focuses on building a system for real-time healthcare provider verification and credentialing using AI and blockchain.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/08-17.png",
