@@ -84,6 +84,14 @@
             "filterTypes": "programming, technology"
         },
         {
+            "title": "Gemini AI: A Healthcare Game-Changer in the Making",
+            "description": "When we talk about AI in healthcare it usually comes with a mix of excitement and caution. On one hand the promise of better diagnoses faster research and reduced costs is undeniable. On the other the stakes are high because human lives are involved. That is why Google’s Gemini AI is drawing so much attention.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/09-07.png",
+            "articleUrl": "https://medium.com/path-to-care/gemini-ai-a-healthcare-game-changer-in-the-making-a016ee459e70",
+            "type": "technology",
+            "filterTypes": "healthcare, technology"
+        },
+        {
             "title": "The Top 10 Booming Technologies Reshaping Healthcare in 2025",
             "description": "Healthcare is undergoing a rapid transformation. What was once seen as futuristic is now becoming a daily reality in hospitals, clinics, and even homes. Thanks to a surge in innovation, the healthcare sector is evolving to become more intelligent, efficient, and patient-centered.Healthcare is undergoing a rapid transformation. What was once seen as futuristic is now becoming a daily reality in hospitals, clinics, and even homes. Thanks to a surge in innovation, the healthcare sector is evolving to become more intelligent, efficient, and patient-centered.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/top10.png",
@@ -693,6 +701,13 @@
             "description": "This course explores how AI transforms cybersecurity, highlighting benefits, risks, and strategies for integrating intelligent systems into secure software development and threat mitigation practices.",
             "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
             "url": "https://www.linkedin.com/learning/certificates/46a4500150abc663e3efd4b0a4dba56ecd262a858703e52ac5ab1229a71b4c3f"
+        },
+        {
+            "title": "Agentic AI Solution Communication Architectures",
+            "subtitle": "LinkedIn",
+            "description": "This course explores how Agentic AI solution communication architectures enable autonomous agents to collaborate, coordinate, and exchange information effectively. Explore design principles, frameworks, and strategies for building scalable, adaptive, and intelligent AI-driven systems.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/3703ca915a2c360fb21c49c139af5abc6dfc4d707eafcdfbc5aba6ecff955df0"
         },
         {
             "title": "Artificial Intelligence Foundations: Machine Learning",
