@@ -633,6 +633,62 @@
             "url": "https://www.linkedin.com/learning/certificates/c65b146bca69a2dcf3f86145093315d9edeb9d605b46a990c78e8f612cb1acff"
         },
         {
+            "title": "Model Context Protocol (MCP): Hands-On with Agentic AI",
+            "subtitle": "Linkedin",
+            "description": "This course explores the Model Context Protocol (MCP) in this hands-on course. Learn how agentic AI connects, communicates, and scales across tools and systems, empowering developers to build smarter, context-aware applications.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/1bc06bbd412ad277d19c8a4beb5fdcfb4b0faa0e51527a22505027ecbeeaf427"
+        },
+        {
+            "title": "Mitigate AI Business Risk: A Guide for Senior Leaders and Executives",
+            "subtitle": "Linkedin",
+            "description": "This course explores the strategies to mitigate AI business risks in this executive-focused guide. Senior leaders learn to navigate ethical, regulatory, and operational challenges while driving responsible AI adoption and long-term organizational success.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/6ec322f608cc4393416eb5accc751ec367e31a5a6a688457bcb33bd1843523a4"
+        },
+        {
+            "title": "Hands-On AI: Building AI Agents with Model Context Protocol (MCP) and Agent2Agent (A2A)",
+            "subtitle": "Linkedin",
+            "description": "This course explores building AI agents with Model Context Protocol (MCP) and Agent2Agent (A2A). Learn to design, connect, and scale intelligent systems through hands-on projects and real-world applications.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/a3f2edcf8a01d081e338b19f67122c05f36f87dd5ee54d89144885319b82e65a"
+        },
+        {
+            "title": "Building Generative AI Apps to Talk to Your Data",
+            "subtitle": "Linkedin",
+            "description": "This course explores generative AI applications that interact with your data. This course guides you through designing, integrating, and deploying solutions that enable natural, intelligent, and secure data-driven conversations.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/2079551d67a4ef1f0c605d2ba23bf4a0eb403a8562da13816c307249c3e45b98"
+        },
+        {
+            "title": "Build AI Agents and Chatbots with LangGraph",
+            "subtitle": "Linkedin",
+            "description": "This course provides hands-on guidance for creating dynamic conversational experiences, orchestrating workflows, and scaling intelligent applications across diverse business and technical domains.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/19a5f15a8920b0871bf4411d50a9da45a1f2a3f226ff9f1b35659e9b3b0bb74d"
+        },
+        {
+            "title": "Agentic AI for Developers: Concepts and Application for Enterprises",
+            "subtitle": "Linkedin",
+            "description": "This course provides hands-on guidance to build powerful AI agents and chatbots using LangGraph. Gain hands-on experience designing workflows, orchestrating interactions, and deploying scalable, intelligent conversational systems for real-world business and technical applications.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/38aede65a4173fdc808b85b6486948326a6882cb8a1842aff738075acc5771c9"
+        },
+        {
+            "title": "Agentic AI for Developers: Concepts and Application for Enterprises",
+            "subtitle": "Linkedin",
+            "description": "This course provides hands-on guidance to build powerful AI agents and chatbots using LangGraph. Gain hands-on experience designing workflows, orchestrating interactions, and deploying scalable, intelligent conversational systems for real-world business and technical applications.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/38aede65a4173fdc808b85b6486948326a6882cb8a1842aff738075acc5771c9"
+        },
+        {
+            "title": "Agentic AI Solution Communication Architectures",
+            "subtitle": "Linkedin",
+            "description": "This course explores communication architectures for agentic AI solutions. Learn how agents coordinate, exchange context, and collaborate effectively across systems to build scalable, interoperable, and intelligent enterprise-ready AI applications.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/3703ca915a2c360fb21c49c139af5abc6dfc4d707eafcdfbc5aba6ecff955df0"
+        },
+        {
             "title": "AI for Software Testers",
             "subtitle": "Linkedin",
             "description": "This course is designed to teach how to integrate AI tools into software testing processes. Discover techniques to enhance test efficiency, automation, and analysis across the software testing life cycle using modern AI solutions.",
