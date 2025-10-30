@@ -164,6 +164,14 @@
             "filterTypes": "healthcare, technology"
         },
         {
+            "title": "How AI is Transforming the Role of Software Engineers",
+            "description": "For decades, software engineers have been the builders of the digital world. We wrote the logic, designed the systems, and debugged the chaos. But in 2025, a quiet revolution is underway. AI isn’t replacing software engineers; it’s reshaping what we do.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/10-30.png",
+            "articleUrl": "https://medium.com/@msrbaipalli/how-ai-is-transforming-the-role-of-software-engineers-969373f9bbcf",
+            "type": "programming",
+            "filterTypes": "programming, technology"
+        },
+        {
             "title": "AI and Developers: A Boost to Productivity or a Drain on Thinking?",
             "description": "If you’ve been anywhere near the dev world lately, you already know. AI is not knocking. It has kicked the door down. From GitHub Copilot finishing our code like an autocomplete on steroids to Cursor suggesting entire functions before we even think of them, artificial intelligence is becoming the coding partner we never knew we needed.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/08-06.png",
@@ -428,6 +436,13 @@
             "description": "This is a course of study offered by Stanford University, an online learning initiative of Stanford University Stanford Online.",
             "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/standford.jpg",
             "url": "https://prod-cert-bucket.s3.amazonaws.com/downloads/2c9c3cc2083a47d79cc5a96a23498d7a/Statement.pdf"
+        },
+        {
+            "title": "AI Dojo: Generative AI",
+            "subtitle": "Optum Inc",
+            "description": "Optum AI Dojo Generative Certification is a program focused on generative AI, teaching employees practical applications, prompt engineering, and responsible AI practices to enhance innovation in healthcare technology.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/optum.jpg",
+            "url": "https://uhg.edcast.com/verify_badge/97z5uGcmtW?user_id=3748706"
         },
         {
             "title": "Introduction to Generative AI",
