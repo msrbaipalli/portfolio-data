@@ -1,13 +1,13 @@
 {
     "about": {
         "showPatentWork": true,
-        "showDownloadResume": false,
-        "resumeUrl": "https://github.com/msrbaipalli/portfolio-data/blob/main/files/resume/Srinivas%20Baipalli%20Resume.pdf",
+        "showDownloadResume": true,
+        "resumeUrl": "https://drive.google.com/file/d/1uGfVMPdBHSs30B5TMZ2KZed80uxBwkmV/view",
         "lines": [
-            "I'm a Lead Software Engineer with a passion for building clean, intuitive, and high-performing applications. Since 2016, I’ve been helping teams bring ideas to life—designing scalable systems, solving complex problems, and delivering products that create real impact.",
-            "At UnitedHealth Group – Optum, I currently lead initiatives aimed at improving healthcare access for millions of people across the U.S.",
-            "Beyond engineering, I also contribute as a Solution Architect, crafting technical strategies and system designs that align with both business needs and long-term vision. I believe in building with purpose—solutions that are thoughtful, future-ready, and truly meaningful.",
-            "When I'm not coding, I’m exploring new technologies and writing about tech, programming, and how innovation can shape the future of healthcare."
+            "I'm a Lead Software Engineer and Solution Architect driven by the mission to build intelligent, scalable, and human-centered digital solutions. Since 2016, I have been designing and leading transformative software systems that power millions of user experiences across the U.S. healthcare landscape.",
+            "At UnitedHealth Group, Optum, I lead key initiatives within the Provider Search Experience and Data Exchange platforms, modernizing how patients find care, how providers are verified, and how data moves securely across health systems. My work blends engineering precision with architectural vision, uniting innovation, compliance, and real-world impact.",
+            "I am also the inventor of a patent-pending system for real-time healthcare provider verification and credentialing using artificial intelligence and blockchain, an idea born from my commitment to solving some of the most persistent challenges in healthcare data integrity and trust.",
+            "Beyond code, I am passionate about exploring emerging technologies such as artificial intelligence, cloud-native systems, and digital identity, and writing about how they can redefine the future of healthcare and software engineering. I believe in building with purpose solutions that are not only technically sound but nationally impactful."
         ]
     },
     "articles": [
