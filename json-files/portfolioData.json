@@ -943,7 +943,13 @@
                             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/awards/uhg-leadership-award.png",
                             "linkUrl": "https://drive.google.com/file/d/1pTWcfg3i5wmYGaYPJMmMjy9v_c83f6Dv/view",
                             "description": "Recognized for exceptional leadership across teams as part of initiatives to enhance the Provider Search Experience."
-                        },
+                        }
+                    ]
+                },
+                {
+                    "projectName": "Optum Data Exchange",
+                    "projectDescription": "Led a team in developing user interface applications for the Optum Data Exchange platform, a critical system that facilitates the secure and efficient exchange of clinical data between healthcare providers. Focused on enhancing the platform's usability and performance, enabling providers to access and share patient data seamlessly. This work directly supports the healthcare industry's transition to more integrated and data-driven care, improving patient outcomes and operational efficiency.",
+                    "awards": [
                         {
                             "title": "Collaboration Recognition Award",
                             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/awards/uhg-collaboration-award.png",
@@ -951,10 +957,6 @@
                             "description": "Recognized for outstanding collaboration across teams as a part of Angular UI projects migration for Optum Data Exchange product."
                         }
                     ]
-                },
-                {
-                    "projectName": "Optum Data Exchange",
-                    "projectDescription": "Led a team in developing user interface applications for the Optum Data Exchange platform, a critical system that facilitates the secure and efficient exchange of clinical data between healthcare providers. Focused on enhancing the platform's usability and performance, enabling providers to access and share patient data seamlessly. This work directly supports the healthcare industry's transition to more integrated and data-driven care, improving patient outcomes and operational efficiency."
                 }
             ],
             "skills": [
