@@ -936,7 +936,21 @@
             "projects": [
                 {
                     "projectName": "Provider Search Experience",
-                    "projectDescription": "Currently leading a federated team to develop and enhance the Optum Provider Search Experience — a key product used by millions of people to help patients easily find and connect with healthcare providers within the Optum network. This platform offers a user-friendly, dynamic search tool that allows users to filter providers based on multiple criteria such as location, specialty, language, and gender, making it easier for patients to access the right care. By improving the search functionality and overall user experience, the product plays a critical role in empowering millions of patients and streamlining healthcare access."
+                    "projectDescription": "Currently leading a federated team to develop and enhance the Optum Provider Search Experience — a key product used by millions of people to help patients easily find and connect with healthcare providers within the Optum network. This platform offers a user-friendly, dynamic search tool that allows users to filter providers based on multiple criteria such as location, specialty, language, and gender, making it easier for patients to access the right care. By improving the search functionality and overall user experience, the product plays a critical role in empowering millions of patients and streamlining healthcare access.",
+                    "awards": [
+                        {
+                            "title": "Leadership Recognition Award",
+                            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/awards/uhg-leadership-award.png",
+                            "linkUrl": "https://drive.google.com/file/d/1pTWcfg3i5wmYGaYPJMmMjy9v_c83f6Dv/view",
+                            "description": "Recognized for exceptional leadership across teams as part of initiatives to enhance the Provider Search Experience."
+                        },
+                        {
+                            "title": "Collaboration Recognition Award",
+                            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/awards/uhg-collaboration-award.png",
+                            "linkUrl": "https://drive.google.com/file/d/1OKG_FgHQD_3C3bJ0bzNfnfLzX7icfiUx/view",
+                            "description": "Recognized for outstanding collaboration across teams as a part of Angular UI projects migration for Optum Data Exchange product."
+                        },
+                    ]
                 },
                 {
                     "projectName": "Optum Data Exchange",
