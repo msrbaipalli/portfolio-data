@@ -1062,6 +1062,7 @@
     "skills": [
         {
             "title": "Frontend Development",
+            "desc": "I specialize in creating clean, responsive, and high-performing user interfaces using modern frameworks and design systems. From concept to production, I focus on delivering intuitive digital experiences that are both elegant and scalable.",
             "sections": [
                 {
                     "sectionTitle": "Languages",
@@ -1115,6 +1116,7 @@
         },
         {
             "title": "Backend Development",
+            "desc": "I design and build reliable, efficient, and secure backend systems that power complex applications. My expertise spans APIs, databases, and microservices—ensuring every layer of the architecture works seamlessly together.",
             "sections": [
                 {
                     "sectionTitle": "Languages",
@@ -1161,6 +1163,7 @@
         },
         {
             "title": "DevOps and AI Development",
+            "desc": "I bridge development with intelligence and automation. Using cloud, AI, and DevOps tools, I architect scalable infrastructures, integrate smart systems, and drive continuous delivery powered by data and innovation.",
             "sections": [
                 {
                     "sectionTitle": "Cloud Services",
