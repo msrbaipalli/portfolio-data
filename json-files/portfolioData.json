@@ -693,13 +693,6 @@
         {
             "title": "Build AI Agents and Chatbots with LangGraph",
             "subtitle": "Linkedin",
-            "description": "This course provides hands-on guidance for creating dynamic conversational experiences, orchestrating workflows, and scaling intelligent applications across diverse business and technical domains.",
-            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
-            "url": "https://www.linkedin.com/learning/certificates/19a5f15a8920b0871bf4411d50a9da45a1f2a3f226ff9f1b35659e9b3b0bb74d"
-        },
-        {
-            "title": "Agentic AI for Developers: Concepts and Application for Enterprises",
-            "subtitle": "Linkedin",
             "description": "This course provides hands-on guidance to build powerful AI agents and chatbots using LangGraph. Gain hands-on experience designing workflows, orchestrating interactions, and deploying scalable, intelligent conversational systems for real-world business and technical applications.",
             "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
             "url": "https://www.linkedin.com/learning/certificates/38aede65a4173fdc808b85b6486948326a6882cb8a1842aff738075acc5771c9"
@@ -707,7 +700,7 @@
         {
             "title": "Agentic AI for Developers: Concepts and Application for Enterprises",
             "subtitle": "Linkedin",
-            "description": "This course provides hands-on guidance to build powerful AI agents and chatbots using LangGraph. Gain hands-on experience designing workflows, orchestrating interactions, and deploying scalable, intelligent conversational systems for real-world business and technical applications.",
+            "description": "This course provides hands-on guidance for creating dynamic conversational experiences, orchestrating workflows, and scaling intelligent applications across diverse business and technical domains.",
             "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
             "url": "https://www.linkedin.com/learning/certificates/38aede65a4173fdc808b85b6486948326a6882cb8a1842aff738075acc5771c9"
         },
