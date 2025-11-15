@@ -60,6 +60,14 @@
             "filterTypes": "healthcare, technology"
         },
         {
+            "title": "Why JSON and TOON Are Quietly Transforming How AI Uses Tokens",
+            "description": "Every few months the AI world finds a new obsession. Recently the conversation shifted toward something that sounds almost boring at first glance. JSON. TOON. Structured formats.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/11-15.png",
+            "articleUrl": "https://medium.com/@msrbaipalli/why-json-and-toon-are-quietly-transforming-how-ai-uses-tokens-0b6ea30613f2",
+            "type": "technology",
+            "filterTypes": "healthcare, programming, technology"
+        },
+        {
             "title": "From MCP to AI Agents: Taking My Innovation to the Next Level",
             "description": "In my last post, I shared how MCP servers bridge the gap between LLMs and real-world tools. With MCP, I could simulate workflows for healthcare provider verification, test compliance rules, and even log credentialing updates into a blockchain ledger.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/08-24.png",
@@ -632,6 +640,13 @@
             "description": "This course is designed to teach to seamlessly integrate AI into product architecture, enhancing functionality, scalability, and user experience through practical strategies, design principles, and real-world case studies for building intelligent, future-ready products.",
             "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
             "url": "https://www.linkedin.com/learning/certificates/de516182041b3211264f98ae5f52f5e6f449692f17c879c3db6fceb92fc27fe2"
+        },
+        {
+            "title": "Building Agentic AI Systems",
+            "subtitle": "Linkedin",
+            "description": "This course explores practical frameworks, tools, and design patterns for creating autonomous, goal-driven AI agents that collaborate, reason, and execute tasks effectively in real-world business and technical environments.",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/65eb9891277a540e756da6e1f939b1ca4a844557ed5c20728c1fbd5168ab7470"
         },
         {
             "title": "Designing Agentic AI Products (No Code Required)",
