@@ -60,6 +60,14 @@
             "filterTypes": "healthcare, technology"
         },
         {
+            "title": "From Chaos to Clarity: How AI Is Transforming Healthcare Claims",
+            "description": "Imagine this. You visit your doctor for a simple checkup. The doctor sends your insurance a claim. You assume everything is fine, and you will get the bill in a few weeks.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/11-29.png",
+            "articleUrl": "https://medium.com/path-to-care/from-chaos-to-clarity-how-ai-is-transforming-healthcare-claims-facf7abe9708",
+            "type": "technology",
+            "filterTypes": "healthcare, technology"
+        },
+        {
             "title": "Why JSON and TOON Are Quietly Transforming How AI Uses Tokens",
             "description": "Every few months the AI world finds a new obsession. Recently the conversation shifted toward something that sounds almost boring at first glance. JSON. TOON. Structured formats.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/11-15.png",
