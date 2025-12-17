@@ -1207,6 +1207,9 @@
                     "sectionTitle": "AI Tools & Platforms",
                     "sectionItems": [
                         "OpenAI API",
+                        "GenAI",
+                        "LLMs",
+                        "LangChain",
                         "ChatGPT",
                         "GitHub Copilot",
                         "Databricks",
