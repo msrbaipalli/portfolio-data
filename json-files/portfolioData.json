@@ -52,6 +52,14 @@
             "filterTypes": "healthcare, technology"
         },
         {
+            "title": "From MCP to AI Agents: Taking My Innovation to the Next Level",
+            "description": "In my last post, I shared how MCP servers bridge the gap between LLMs and real-world tools. With MCP, I could simulate workflows for healthcare provider verification, test compliance rules, and even log credentialing updates into a blockchain ledger.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/08-24.png",
+            "articleUrl": "https://medium.com/path-to-care/from-mcp-to-ai-agents-taking-my-innovation-to-the-next-level-38323f4f2116",
+            "type": "technology",
+            "filterTypes": "healthcare, programming, technology"
+        },
+        {
             "title": "Healthcare companies using real AI products (and the business value behind them)",
             "description": "AI in healthcare is no longer a “pilot in a lab.” It is quietly turning into plumbing: the stuff that reduces friction, closes care gaps, speeds up claims, and gives clinicians time back. Here are real, named products and how they create measurable business value.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/12-16.png",
@@ -80,14 +88,6 @@
             "description": "Every few months the AI world finds a new obsession. Recently the conversation shifted toward something that sounds almost boring at first glance. JSON. TOON. Structured formats.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/11-15.png",
             "articleUrl": "https://medium.com/@msrbaipalli/why-json-and-toon-are-quietly-transforming-how-ai-uses-tokens-0b6ea30613f2",
-            "type": "technology",
-            "filterTypes": "healthcare, programming, technology"
-        },
-        {
-            "title": "From MCP to AI Agents: Taking My Innovation to the Next Level",
-            "description": "In my last post, I shared how MCP servers bridge the gap between LLMs and real-world tools. With MCP, I could simulate workflows for healthcare provider verification, test compliance rules, and even log credentialing updates into a blockchain ledger.",
-            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/08-24.png",
-            "articleUrl": "https://medium.com/path-to-care/from-mcp-to-ai-agents-taking-my-innovation-to-the-next-level-38323f4f2116",
             "type": "technology",
             "filterTypes": "healthcare, programming, technology"
         },
