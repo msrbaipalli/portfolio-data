@@ -60,6 +60,14 @@
             "filterTypes": "healthcare, programming, technology"
         },
         {
+            "title": "Extending MCP to My Innovation Work in Healthcare",
+            "description": "In my earlier post, I talked about how MCP servers give LLMs real-world powers by letting them interact with tools and APIs instead of just making things up. Now I want to take it a step further and share how I am experimenting with MCP in my own innovation work. My project focuses on building a system for real-time healthcare provider verification and credentialing using AI and blockchain.",
+            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/08-17.png",
+            "articleUrl": "https://medium.com/path-to-care/extending-mcp-to-my-innovation-work-in-healthcare-1e095d7d50d8",
+            "type": "technology",
+            "filterTypes": "healthcare, programming, technology"
+        },
+        {
             "title": "Healthcare companies using real AI products (and the business value behind them)",
             "description": "AI in healthcare is no longer a “pilot in a lab.” It is quietly turning into plumbing: the stuff that reduces friction, closes care gaps, speeds up claims, and gives clinicians time back. Here are real, named products and how they create measurable business value.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/12-16.png",
@@ -88,14 +96,6 @@
             "description": "Every few months the AI world finds a new obsession. Recently the conversation shifted toward something that sounds almost boring at first glance. JSON. TOON. Structured formats.",
             "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/11-15.png",
             "articleUrl": "https://medium.com/@msrbaipalli/why-json-and-toon-are-quietly-transforming-how-ai-uses-tokens-0b6ea30613f2",
-            "type": "technology",
-            "filterTypes": "healthcare, programming, technology"
-        },
-        {
-            "title": "Extending MCP to My Innovation Work in Healthcare",
-            "description": "In my earlier post, I talked about how MCP servers give LLMs real-world powers by letting them interact with tools and APIs instead of just making things up. Now I want to take it a step further and share how I am experimenting with MCP in my own innovation work. My project focuses on building a system for real-time healthcare provider verification and credentialing using AI and blockchain.",
-            "imageUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/articles/08-17.png",
-            "articleUrl": "https://medium.com/path-to-care/extending-mcp-to-my-innovation-work-in-healthcare-1e095d7d50d8",
             "type": "technology",
             "filterTypes": "healthcare, programming, technology"
         },
