@@ -701,6 +701,13 @@
             "url": "https://www.linkedin.com/learning/certificates/6ec322f608cc4393416eb5accc751ec367e31a5a6a688457bcb33bd1843523a4"
         },
         {
+            "title": "Hands-On AI: Building Your First Conversational AI Chatbot",
+            "subtitle": "Linkedin",
+            "description": "This course provides basics of conversational AI and chatbot types to hands-on building, testing, and deploying a functional AI chatbot using tools like PyTorch, Hugging Face, and Gradio",
+            "iconUrl": "https://raw.githubusercontent.com/msrbaipalli/portfolio-data/refs/heads/main/images/certificates/linkedin.jpg",
+            "url": "https://www.linkedin.com/learning/certificates/068ac5e56aca64965b7cf98d3b361d16c5bd268a5c8a2b319d169ccd6a5249c5"
+        },
+        {
             "title": "Hands-On AI: Building AI Agents with Model Context Protocol (MCP) and Agent2Agent (A2A)",
             "subtitle": "Linkedin",
             "description": "This course explores building AI agents with Model Context Protocol (MCP) and Agent2Agent (A2A). Learn to design, connect, and scale intelligent systems through hands-on projects and real-world applications.",
